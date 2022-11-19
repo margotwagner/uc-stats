@@ -1,7 +1,7 @@
 uc-stats
 ==============================
 
-Statistical analysis of University of California over time. Current analyses focuses on UC San Diego ass a case study and looks at finances, housing, enrollment, compensation, and employee breakdowns. 
+Statistical analysis of University of California over time. Current analyses focuses on UC San Diego as a case study and looks at finances, housing, enrollment, compensation, and employee breakdowns. 
 
 Project Organization
 ------------
