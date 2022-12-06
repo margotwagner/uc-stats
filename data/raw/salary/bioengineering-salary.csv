@@ -1,0 +1,10 @@
+university,shortname,location,stipend,adjusted,per-month,per-month-adjusted,difference
+University of Virginia,UVA,"charlottesville, va",32500,44355,2708.333333,3696.25,987.92
+Duke University,Duke,"durham, nc",38600,58225,3216.666667,4852.08,1635.42
+University of Pittsburgh,UPitt,pittburgh,33000,46136,2750,3844.67,1094.67
+Georgia Tech,GTech,atlanta,35000,48319,2916.666667,4026.58,1109.92
+University of Michigan (AA),UMich,ann arbor,33750,51892,2812.5,4324.33,1511.83
+University of Illinois (UIUC),UIUC,urbana-champaign,31620,52082,2635,4340.17,1705.17
+University at Buffalo (SUNY),UBuff,,29000,43243,2416.666667,3603.58,1186.92
+University of Florida,UFl,,31000,49032,2583.333333,4086.00,1502.67
+UCSD,UCSD,,36000,36000,3000,3000,0

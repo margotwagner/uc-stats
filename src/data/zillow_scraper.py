@@ -5,6 +5,8 @@ import pandas as pd
 import requests
 
 DATADIR = '../../data/processed/housing-off-campus/'
+zipcode = 92037
+date = 113022
 
 req_headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
@@ -15,13 +17,14 @@ req_headers = {
 }
 
 with requests.Session() as s:
-    base_url = 'https://www.zillow.com/san-diego-ca-92122/rentals/'
+    base_url = 'https://www.zillow.com/san-diego-ca-{}/rentals/'.format(zipcode)
     
     # initialize variables
     page_num = 1
     status = 200
     zillow_text = ''
     
+    print('Scraping zillow for area code: {}'.format(zipcode))
     print('Scraping page {}'.format(page_num))
     
     while status == 200:
@@ -51,7 +54,7 @@ with requests.Session() as s:
         status = r.status_code
         page_num += 1
         
-        
+'''        
 # initialize dataframe
 df = pd.DataFrame(columns=['price', 'unit-type', 'beds', 'note'])
 
@@ -70,5 +73,9 @@ df['price-per-bed'] = round(df['price'] / df['beds'], 2)
 stats = pd.concat([df.describe().T, df.median(numeric_only=True)], axis=1).rename(columns={0: 'median'})
 
 # save to csv
-df.to_csv('{}/zillow-92122-111922.csv'.format(DATADIR), index=False)
-stats.to_csv('{}/zillow-stats-92122-111922.csv'.format(DATADIR), index=False)
+df.to_csv('{}/current/zillow-{}-{}.csv'.format(DATADIR, zipcode, date), index=False)
+stats.to_csv('{}/current/zillow-stats-{}-{}.csv'.format(DATADIR, zipcode, date), index=True)
+'''
+
+with open("../../data/raw/zillow/zip_{}.txt".format(zipcode), "w") as text_file:
+    text_file.write(zillow_text)
