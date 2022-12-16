@@ -1,0 +1,1788 @@
+[
+  {
+    "zpid": "32.866505_rrc2*-rrc_117.21907",
+    "id": "32.866505_rrc2*-rrc_117.21907",
+    "lotId": 1001467348,
+    "imgSrc": "https://photos.zillowstatic.com/fp/f259e78356ee73e5ed132216aa6d1410-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Regents Court",
+    "detailUrl": "/b/regents-court-san-diego-ca-5XjLH9/",
+    "latLong": {
+      "latitude": 32.866505,
+      "longitude": -117.21907
+    },
+    "units": [
+      {
+        "price": "$2,615+",
+        "beds": "1"
+      },
+      {
+        "price": "$4,191+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Regents Court",
+    "isBuilding": true,
+    "address": "8465 Regents Rd, San Diego, CA",
+    "addressStreet": "8465 Regents Rd   Apt 329",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "3jxtyubba2psg",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.87017_rrc2*-rrc_117.21583",
+    "id": "32.87017_rrc2*-rrc_117.21583",
+    "lotId": 1001488229,
+    "imgSrc": "https://photos.zillowstatic.com/fp/df79e28e60424a400afd582eb333ffb4-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Towers at Costa Verde",
+    "detailUrl": "/b/towers-at-costa-verde-san-diego-ca-5XjVyJ/",
+    "latLong": {
+      "latitude": 32.87017,
+      "longitude": -117.21583
+    },
+    "units": [
+      {
+        "price": "$2,925+",
+        "beds": "1"
+      },
+      {
+        "price": "$4,000+",
+        "beds": "2"
+      },
+      {
+        "price": "$4,975+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Towers at Costa Verde",
+    "isBuilding": true,
+    "address": "8775 Costa Verde Blvd, San Diego, CA",
+    "addressStreet": "8775 Costa Verde Blvd # 7181d4bd7",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "1qabm7rfp2hcy",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.872326_rrc2*-rrc_117.202774",
+    "id": "32.872326_rrc2*-rrc_117.202774",
+    "lotId": 1001576462,
+    "imgSrc": "https://photos.zillowstatic.com/fp/83e005dbe687e9d0ff885d1ad86116ea-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "La Jolla Crossroads",
+    "detailUrl": "/b/la-jolla-crossroads-san-diego-ca-5XkGhy/",
+    "latLong": {
+      "latitude": 32.872326,
+      "longitude": -117.202774
+    },
+    "units": [
+      {
+        "price": "$2,475+",
+        "beds": "0"
+      },
+      {
+        "price": "$2,825+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,675+",
+        "beds": "2"
+      },
+      {
+        "price": "$4,950+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "Updated yesterday"
+    },
+    "badgeInfo": null,
+    "buildingName": "La Jolla Crossroads",
+    "isBuilding": true,
+    "address": "9085 Judicial Dr, San Diego, CA",
+    "addressStreet": "9085 Judicial Dr   # f247d8518",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "rqw6t36ccd1n",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.869343_rrc2*-rrc_117.22181",
+    "id": "32.869343_rrc2*-rrc_117.22181",
+    "lotId": 1001482728,
+    "imgSrc": "https://photos.zillowstatic.com/fp/4c2e92b6aa9f2ec220eb46fda996d310-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Axiom La Jolla",
+    "detailUrl": "/b/axiom-la-jolla-san-diego-ca-5XjSg3/",
+    "latLong": {
+      "latitude": 32.869343,
+      "longitude": -117.22181
+    },
+    "units": [
+      {
+        "price": "$2,590+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,240+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "Updated yesterday"
+    },
+    "badgeInfo": null,
+    "buildingName": "Axiom La Jolla",
+    "isBuilding": true,
+    "address": "3950 Mahaila Ave, San Diego, CA",
+    "addressStreet": "3950 Mahaila Ave  # D31",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "4h0sv6kjzdrfu",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.866318_rrc2*-rrc_117.22638",
+    "id": "32.866318_rrc2*-rrc_117.22638",
+    "lotId": 1001478066,
+    "imgSrc": "https://photos.zillowstatic.com/fp/327e4c25e6453ec87531d50f44092491-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Mirada at La Jolla Colony Apartments",
+    "detailUrl": "/b/mirada-at-la-jolla-colony-apartments-san-diego-ca-5XjQjt/",
+    "latLong": {
+      "latitude": 32.866318,
+      "longitude": -117.22638
+    },
+    "units": [
+      {
+        "price": "$2,490+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,011+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "3D_HOME",
+      "text": "3D Tour"
+    },
+    "badgeInfo": null,
+    "buildingName": "Mirada at La Jolla Colony Apartments",
+    "isBuilding": true,
+    "address": "7568 Charmant Dr, San Diego, CA",
+    "addressStreet": "7568 Charmant Dr   # 338",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "43qnwdkpm2s9c",
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.873444_rrc2*-rrc_117.201706",
+    "id": "32.873444_rrc2*-rrc_117.201706",
+    "lotId": 1151214124,
+    "imgSrc": "https://photos.zillowstatic.com/fp/d6f1ce29f2a4b3880fff31937e6ec0de-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "360 Luxury Apartments",
+    "detailUrl": "/b/360-luxury-apartments-san-diego-ca-65h9mp/",
+    "latLong": {
+      "latitude": 32.873444,
+      "longitude": -117.201706
+    },
+    "units": [
+      {
+        "price": "$2,650+",
+        "beds": "0"
+      },
+      {
+        "price": "$2,910+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,620+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "360 Luxury Apartments",
+    "isBuilding": true,
+    "address": "9065 Sydney Ct, San Diego, CA",
+    "addressStreet": "9065 Sydney Ct   # 219c37295",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2adta167kf44m",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.868492_rrc2*-rrc_117.20218",
+    "id": "32.868492_rrc2*-rrc_117.20218",
+    "lotId": 1001917734,
+    "imgSrc": "https://photos.zillowstatic.com/fp/efaa0062091cdf0d2d344789e55bd6db-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Valentia",
+    "detailUrl": "/b/valentia-san-diego-ca-5Xp9rh/",
+    "latLong": {
+      "latitude": 32.868492,
+      "longitude": -117.20218
+    },
+    "units": [
+      {
+        "price": "$3,094+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,496+",
+        "beds": "2"
+      },
+      {
+        "price": "$4,607+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Valentia",
+    "isBuilding": true,
+    "address": "5305 Toscana Way, San Diego, CA",
+    "addressStreet": "5305 Toscana Way  # 6-0619",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "s0gu6ny82cwc",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.870647_rrc2*-rrc_117.20201",
+    "id": "32.870647_rrc2*-rrc_117.20201",
+    "lotId": 1008612106,
+    "imgSrc": "https://photos.zillowstatic.com/fp/88ef13eaa24e272de46d4f1360555b73-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "The Villas of Renaissance",
+    "detailUrl": "/b/the-villas-of-renaissance-san-diego-ca-5Yy52X/",
+    "latLong": {
+      "latitude": 32.870647,
+      "longitude": -117.20201
+    },
+    "units": [
+      {
+        "price": "$2,395+",
+        "beds": "0"
+      },
+      {
+        "price": "$2,795+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,340+",
+        "beds": "2"
+      },
+      {
+        "price": "$4,095+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "3D_HOME",
+      "text": "3D Tour"
+    },
+    "badgeInfo": null,
+    "buildingName": "The Villas of Renaissance",
+    "isBuilding": true,
+    "address": "5280 Fiore Ter, San Diego, CA",
+    "addressStreet": "5280 Fiore Ter  # G405",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2au5ygm653d9j",
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.86981_rrc2*-rrc_117.22341",
+    "id": "32.86981_rrc2*-rrc_117.22341",
+    "lotId": 1001488455,
+    "imgSrc": "https://photos.zillowstatic.com/fp/505f9b0e9a42018d5e87285db9313d20-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "La Jolla Palms Apartment Homes",
+    "detailUrl": "/b/la-jolla-palms-apartment-homes-san-diego-ca-5XjW4v/",
+    "latLong": {
+      "latitude": 32.86981,
+      "longitude": -117.22341
+    },
+    "units": [
+      {
+        "price": "$3,115+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,770+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "3D_HOME",
+      "text": "3D Tour"
+    },
+    "badgeInfo": null,
+    "buildingName": "La Jolla Palms Apartment Homes",
+    "isBuilding": true,
+    "address": "3535 Lebon Dr, San Diego, CA",
+    "addressStreet": "3535 Lebon Dr   Apt 3103",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "4n7eqg8jhsfux",
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.852184_rrc2*-rrc_117.19075",
+    "id": "32.852184_rrc2*-rrc_117.19075",
+    "lotId": 2317746042,
+    "imgSrc": "https://photos.zillowstatic.com/fp/50409f65e328ac8df86ae8521739f00b-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Avia La Jolla Senior Community 55 Years +",
+    "detailUrl": "/b/avia-la-jolla-senior-community-55-years-%2b-san-diego-ca-BD4WJd/",
+    "latLong": {
+      "latitude": 32.852184,
+      "longitude": -117.19075
+    },
+    "units": [
+      {
+        "price": "$3,198+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Avia La Jolla Senior Community 55 Years +",
+    "isBuilding": true,
+    "address": "6345 Gullstrand St, San Diego, CA",
+    "addressStreet": "6345 Gullstrand St   # 324",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "hsr6zg5ts1q8",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.860085_rrc2*-rrc_117.228775",
+    "id": "32.860085_rrc2*-rrc_117.228775",
+    "lotId": 1001479399,
+    "imgSrc": "https://photos.zillowstatic.com/fp/729f205f8f0882441ab841c3f5441576-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "La Jolla Blue Apartments",
+    "detailUrl": "/b/la-jolla-blue-apartments-san-diego-ca-5XjRJ6/",
+    "latLong": {
+      "latitude": 32.860085,
+      "longitude": -117.228775
+    },
+    "units": [
+      {
+        "price": "$2,600+",
+        "beds": "1"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "Updated yesterday"
+    },
+    "badgeInfo": null,
+    "buildingName": "La Jolla Blue Apartments",
+    "isBuilding": true,
+    "address": "7039 Charmant Dr, San Diego, CA",
+    "addressStreet": "7039 Charmant Dr   # 181",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "5dzpr5hyty15d",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.862946_rrc2*-rrc_117.227936",
+    "id": "32.862946_rrc2*-rrc_117.227936",
+    "lotId": 1001465533,
+    "imgSrc": "https://photos.zillowstatic.com/fp/8331987ee58b3a003f7d9626b2fb463f-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Avalon La Jolla Colony",
+    "detailUrl": "/b/avalon-la-jolla-colony-san-diego-ca-5XjKW7/",
+    "latLong": {
+      "latitude": 32.862946,
+      "longitude": -117.227936
+    },
+    "units": [
+      {
+        "price": "$2,675+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,325+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Avalon La Jolla Colony",
+    "isBuilding": true,
+    "address": "7205 Charmant Dr, San Diego, CA",
+    "addressStreet": "7205 Charmant Dr   # 4c3fb7289",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "4tr0nk8a50dg4",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.864098_rrc2*-rrc_117.20873",
+    "id": "32.864098_rrc2*-rrc_117.20873",
+    "lotId": 1001554764,
+    "imgSrc": "https://photos.zillowstatic.com/fp/152ccb3e08d4fb0c2f4505757cc026a3-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Westwood Apartment Homes",
+    "detailUrl": "/b/westwood-apartment-homes-san-diego-ca-5Xk5g9/",
+    "latLong": {
+      "latitude": 32.864098,
+      "longitude": -117.20873
+    },
+    "units": [
+      {
+        "price": "$2,630+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,395+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "3D_HOME",
+      "text": "3D Tour"
+    },
+    "badgeInfo": null,
+    "buildingName": "Westwood Apartment Homes",
+    "isBuilding": true,
+    "address": "7936 Avenida Navidad, San Diego, CA",
+    "addressStreet": "7936 Avenida Navidad # 99",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "93c73x53te7e",
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.867863_rrc2*-rrc_117.223625",
+    "id": "32.867863_rrc2*-rrc_117.223625",
+    "lotId": 1001476395,
+    "imgSrc": "https://photos.zillowstatic.com/fp/8fc662acfe2aa76442e73f8a1739e010-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "La Scala",
+    "detailUrl": "/b/la-scala-san-diego-ca-5XjQ3n/",
+    "latLong": {
+      "latitude": 32.867863,
+      "longitude": -117.223625
+    },
+    "units": [
+      {
+        "price": "$2,595+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,520+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "La Scala",
+    "isBuilding": true,
+    "address": "3845 Nobel Dr, San Diego, CA",
+    "addressStreet": "3845 Nobel Dr   # 1570237",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "4dk8teeywwx59",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.866795_rrc2*-rrc_117.22397",
+    "id": "32.866795_rrc2*-rrc_117.22397",
+    "lotId": 1001479662,
+    "imgSrc": "https://photos.zillowstatic.com/fp/5215b581a881cbe14090b32ca8346ee1-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "La Jolla International Gardens",
+    "detailUrl": "/b/la-jolla-international-gardens-san-diego-ca-5XjRPS/",
+    "latLong": {
+      "latitude": 32.866795,
+      "longitude": -117.22397
+    },
+    "units": [
+      {
+        "price": "$2,545+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,415+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "3D_HOME",
+      "text": "3D Tour"
+    },
+    "badgeInfo": null,
+    "buildingName": "La Jolla International Gardens",
+    "isBuilding": true,
+    "address": "3417 Lebon Dr, San Diego, CA",
+    "addressStreet": "3417 Lebon Dr   # 1572827",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "462d016kjqm1w",
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.870167_rrc2*-rrc_117.216774",
+    "id": "32.870167_rrc2*-rrc_117.216774",
+    "lotId": 1001485127,
+    "imgSrc": "https://photos.zillowstatic.com/fp/b339c7e5fcd448708415dcab1cbad376-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Costa Verde Village",
+    "detailUrl": "/b/costa-verde-village-san-diego-ca-5XjTfz/",
+    "latLong": {
+      "latitude": 32.870167,
+      "longitude": -117.216774
+    },
+    "units": [
+      {
+        "price": "$2,760+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,735+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Costa Verde Village",
+    "isBuilding": true,
+    "address": "8720 Costa Verde Blvd, San Diego, CA",
+    "addressStreet": "8720 Costa Verde Blvd # 72d638b1e",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "1hcs2prwj2ha",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.871826_rrc2*-rrc_117.21549",
+    "id": "32.871826_rrc2*-rrc_117.21549",
+    "lotId": 2348078928,
+    "imgSrc": "https://photos.zillowstatic.com/fp/316fb3c9d35b597b5e2dd6f35daefd28-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "LUX by Garden",
+    "detailUrl": "/b/lux-by-garden-san-diego-ca-BKKLk8/",
+    "latLong": {
+      "latitude": 32.871826,
+      "longitude": -117.21549
+    },
+    "units": [
+      {
+        "price": "$3,365+",
+        "beds": "1"
+      },
+      {
+        "price": "$4,850+",
+        "beds": "2"
+      },
+      {
+        "price": "$6,415+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "LUX by Garden",
+    "isBuilding": true,
+    "address": "4200 Brooke Ct, San Diego, CA",
+    "addressStreet": "4200 Brooke Ct   # 3B-1",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "37ayjwjezbsdg",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.851868_rrc2*-rrc_117.1931",
+    "id": "32.851868_rrc2*-rrc_117.1931",
+    "lotId": 1001475184,
+    "imgSrc": "https://photos.zillowstatic.com/fp/1ffa3bd897a2b90f5db798423e139bfa-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Lajolla Del Ray",
+    "detailUrl": "/b/lajolla-del-ray-san-diego-ca-5XjPX5/",
+    "latLong": {
+      "latitude": 32.851868,
+      "longitude": -117.1931
+    },
+    "units": [
+      {
+        "price": "$2,588+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,177+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": {
+      "type": "SENIOR_HOUSING",
+      "text": "Senior"
+    },
+    "buildingName": "Lajolla Del Ray",
+    "isBuilding": true,
+    "address": "4655 Governor Dr, San Diego, CA",
+    "addressStreet": "4655 Governor Dr   # 4550-129",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2j3ysw3dvyp6e",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.864437_rrc2*-rrc_117.22467",
+    "id": "32.864437_rrc2*-rrc_117.22467",
+    "lotId": 1001467676,
+    "imgSrc": "https://photos.zillowstatic.com/fp/00eca932a4c89dbe8753c250876d4f6b-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "La Regencia",
+    "detailUrl": "/b/la-regencia-san-diego-ca-5XjLPr/",
+    "latLong": {
+      "latitude": 32.864437,
+      "longitude": -117.22467
+    },
+    "units": [
+      {
+        "price": "$2,775+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,825+",
+        "beds": "2"
+      },
+      {
+        "price": "$4,900+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "La Regencia",
+    "isBuilding": true,
+    "address": "7681 Palmilla Dr, San Diego, CA",
+    "addressStreet": "7681 Palmilla Dr   # df9f86608",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2x7j81ffttmhy",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.852036_rrc2*-rrc_117.19343",
+    "id": "32.852036_rrc2*-rrc_117.19343",
+    "lotId": 1001580050,
+    "imgSrc": "https://photos.zillowstatic.com/fp/46878f9e09f6fdfb499156096d497ccd-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Town Park Villas",
+    "detailUrl": "/b/town-park-villas-san-diego-ca-5XkJDC/",
+    "latLong": {
+      "latitude": 32.852036,
+      "longitude": -117.19343
+    },
+    "units": [
+      {
+        "price": "$3,018+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": {
+      "type": "SENIOR_HOUSING",
+      "text": "Senior"
+    },
+    "buildingName": "Town Park Villas",
+    "isBuilding": true,
+    "address": "4633 Governor Dr, San Diego, CA",
+    "addressStreet": "4633 Governor Dr   # 4615-03",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "229pghvvja4x9",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.867603_rrc2*-rrc_117.21215",
+    "id": "32.867603_rrc2*-rrc_117.21215",
+    "lotId": 2360627471,
+    "imgSrc": "https://photos.zillowstatic.com/fp/89c9f0c4dfd4506ff70531756d95ec38-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "Palisade",
+    "detailUrl": "/b/palisade-san-diego-ca-BMV27r/",
+    "latLong": {
+      "latitude": 32.867603,
+      "longitude": -117.21215
+    },
+    "units": [
+      {
+        "price": "$3,902+",
+        "beds": "0"
+      },
+      {
+        "price": "$4,248+",
+        "beds": "1"
+      },
+      {
+        "price": "$4,915+",
+        "beds": "2"
+      },
+      {
+        "price": "$7,798+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": null
+    },
+    "badgeInfo": null,
+    "buildingName": "Palisade",
+    "isBuilding": true,
+    "address": "8800 Lombard Pl, San Diego, CA",
+    "addressStreet": "8800 Lombard Pl   Apt 802",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2e57f6du2ws2s",
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.86613_rrc2*-rrc_117.21075",
+    "id": "32.86613_rrc2*-rrc_117.21075",
+    "lotId": 2079907551,
+    "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=32.86613082885742,-117.21074676513672&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=JbuI75V4MDi5qpnY54j6bNXoNvA=",
+    "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=32.86613082885742,-117.21074676513672&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=M3uBssD8bMmBxD-9_rqu5E1s6zA=",
+    "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=32.86613082885742,-117.21074676513672&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=2iyUpOo5FOHn7btZsCUpTo8uqVs=",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/8254-avenida-navidad-san-diego-ca-5YHhZr/",
+    "latLong": {
+      "latitude": 32.86613,
+      "longitude": -117.21075
+    },
+    "units": [
+      {
+        "price": "$4,395+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "16 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "8230 Avenida Navidad, San Diego, CA",
+    "addressStreet": "8230 Avenida Navidad # 2",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "3f2vzzpz25gjp",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "16842967",
+    "id": "16842967",
+    "providerListingId": "1ayrw7s58jmns",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c2909adb610d24f24dfbfeb4acec0ea6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/7644-Palmilla-Dr-UNIT-23-San-Diego-CA-92122/16842967_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,200/mo",
+    "unformattedPrice": 3200,
+    "address": "7644 Palmilla Dr UNIT 23, San Diego, CA 92122",
+    "addressStreet": "7644 Palmilla Dr UNIT 23",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 2,
+    "area": 1004,
+    "latLong": {
+      "latitude": 32.86342,
+      "longitude": -117.225365
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "7 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 717900,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": "2022-12-02 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 3499
+  },
+  {
+    "zpid": "32.869167_rrc2*-rrc_117.22584",
+    "id": "32.869167_rrc2*-rrc_117.22584",
+    "lotId": 1001466920,
+    "imgSrc": "https://photos.zillowstatic.com/fp/aca6899b2eeb90fc80f14a78cf7f9e83-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/villa-vicenza-san-diego-ca-5XjL6Q/",
+    "latLong": {
+      "latitude": 32.869167,
+      "longitude": -117.22584
+    },
+    "units": [
+      {
+        "price": "$2,895+",
+        "beds": "1"
+      },
+      {
+        "price": "$3,175+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "8 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "8889 Caminito Plaza Centro, San Diego, CA",
+    "addressStreet": "8889 Caminito Plaza Centro # 7103",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "3x7wuq4e6rw39",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "16843050",
+    "id": "16843050",
+    "providerListingId": "4b01dsm9gbhrv",
+    "imgSrc": "https://photos.zillowstatic.com/fp/0cecd8aa8dfd57e51e8e9e0f4f38174d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/7612-Palmilla-Dr-UNIT-46-San-Diego-CA-92122/16843050_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,500/mo",
+    "unformattedPrice": 3500,
+    "address": "7612 Palmilla Dr UNIT 46, San Diego, CA 92122",
+    "addressStreet": "7612 Palmilla Dr UNIT 46",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 2,
+    "area": 1004,
+    "latLong": {
+      "latitude": 32.862465,
+      "longitude": -117.22564
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "4 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 795800,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": null,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 3458
+  },
+  {
+    "zpid": "16843792",
+    "id": "16843792",
+    "providerListingId": "50h68uevxtuxq",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ea7b8c0c64fc979026e39f8e0050540a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/6214-Agee-St-UNIT-39-San-Diego-CA-92122/16843792_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Condo for rent",
+    "countryCurrency": "$",
+    "price": "$2,175/mo",
+    "unformattedPrice": 2175,
+    "address": "6214 Agee St UNIT 39, San Diego, CA 92122",
+    "addressStreet": "6214 Agee St UNIT 39",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 692,
+    "latLong": {
+      "latitude": 32.853024,
+      "longitude": -117.20134
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "9 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 394700,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": "2022-12-31 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 2496
+  },
+  {
+    "zpid": "32.868317_rrc2*-rrc_117.2045",
+    "id": "32.868317_rrc2*-rrc_117.2045",
+    "lotId": null,
+    "imgSrc": "https://photos.zillowstatic.com/fp/10c8e565a38a7dc8ac45d1dcce7b2aca-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/San-Diego-CA/32.868317,-117.2045_ll/",
+    "latLong": {
+      "latitude": 32.868317,
+      "longitude": -117.2045
+    },
+    "units": [
+      {
+        "price": "$5,595+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "10 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "5406 Renaissance Ave, San Diego, CA",
+    "addressStreet": "5406 Renaissance Ave ",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2ahzc1rbzpbf8",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.86171_rrc2*-rrc_117.21543",
+    "id": "32.86171_rrc2*-rrc_117.21543",
+    "lotId": null,
+    "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=32.86170959472656,-117.2154312133789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=3Vij8JP43IKV0l-0I7V3e5_sb04=",
+    "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=32.86170959472656,-117.2154312133789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=c2_qr-IOanYRhSLFSEeifnpB82U=",
+    "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=32.86170959472656,-117.2154312133789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=YjJ-wxJLx8lymKifub1yHMB4Mxk=",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/San-Diego-CA/32.86171,-117.21543_ll/",
+    "latLong": {
+      "latitude": 32.86171,
+      "longitude": -117.21543
+    },
+    "units": [
+      {
+        "price": "$2,695+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "5 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "7786 Camino Glorita, San Diego, CA",
+    "addressStreet": "7786 Camino Glorita ",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "12gtuu8u95vu8",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "16836889",
+    "id": "16836889",
+    "providerListingId": "1686sg3cujg3s",
+    "imgSrc": "https://photos.zillowstatic.com/fp/cfea52076bc9341642f013bc6207de4d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/4082-Mahaila-Ave-UNIT-F-San-Diego-CA-92122/16836889_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Townhouse for rent",
+    "countryCurrency": "$",
+    "price": "$6,300/mo",
+    "unformattedPrice": 6300,
+    "address": "4082 Mahaila Ave UNIT F, San Diego, CA 92122",
+    "addressStreet": "4082 Mahaila Ave UNIT F",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 2.5,
+    "area": 1819,
+    "latLong": {
+      "latitude": 32.870247,
+      "longitude": -117.21921
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "12 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 889300,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": "2022-12-03 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 4692
+  },
+  {
+    "zpid": "17191167",
+    "id": "17191167",
+    "providerListingId": "a7zgksnr068n",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b018ff51f9fd6752c7b0ad18d2c66c43-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/2921-Renault-St-San-Diego-CA-92122/17191167_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,900/mo",
+    "unformattedPrice": 1900,
+    "address": "2921 Renault St, San Diego, CA 92122",
+    "addressStreet": "2921 Renault St",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 540,
+    "latLong": {
+      "latitude": 32.848686,
+      "longitude": -117.22048
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "8 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": null,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": "2023-01-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 2355
+  },
+  {
+    "zpid": "32.867954_rrc2*-rrc_117.22151",
+    "id": "32.867954_rrc2*-rrc_117.22151",
+    "lotId": 1001762640,
+    "imgSrc": "https://photos.zillowstatic.com/fp/29132319a28f62fc0aa19f26d9ada028-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/3935-Nobel-Dr-San-Diego-CA/32.867954,-117.22151_ll/",
+    "latLong": {
+      "latitude": 32.867954,
+      "longitude": -117.22151
+    },
+    "units": [
+      {
+        "price": "$3,400+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "24 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "3935 Nobel Dr, San Diego, CA",
+    "addressStreet": "3935 Nobel Dr Unit 112",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "5h1tafnxq7gsu",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.86992_rrc2*-rrc_117.22537",
+    "id": "32.86992_rrc2*-rrc_117.22537",
+    "lotId": 1001572970,
+    "imgSrc": "https://photos.zillowstatic.com/fp/a391be9eb6a3a14bf7be9d2a933b7fa4-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/3550-lebon-dr-san-diego-ca-5XkFGh/",
+    "latLong": {
+      "latitude": 32.86992,
+      "longitude": -117.22537
+    },
+    "units": [
+      {
+        "price": "$2,998+",
+        "beds": "1"
+      },
+      {
+        "price": "$2,995+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "30 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "3550 Lebon Dr, San Diego, CA",
+    "addressStreet": "3550 Lebon Dr Unit 6103",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "3hwg5bbz4yvrt",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "16846003",
+    "id": "16846003",
+    "providerListingId": "24jm3e8ay6ed6",
+    "imgSrc": "https://photos.zillowstatic.com/fp/2eea35a9d22045c311c341cd06f3521d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/4124-Camino-Ticino-San-Diego-CA-92122/16846003_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "$",
+    "price": "$2,995/mo",
+    "unformattedPrice": 2995,
+    "address": "4124 Camino Ticino, San Diego, CA 92122",
+    "addressStreet": "4124 Camino Ticino",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "area": 882,
+    "latLong": {
+      "latitude": 32.86405,
+      "longitude": -117.214165
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "1 day ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 590900,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": null,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 2892
+  },
+  {
+    "zpid": "16843523",
+    "id": "16843523",
+    "providerListingId": "5fp36nmmh8ebe",
+    "imgSrc": "https://photos.zillowstatic.com/fp/395f1a6faa4e64769c0301bd209991c0-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/6350-Genesee-Ave-UNIT-210-San-Diego-CA-92122/16843523_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,950/mo",
+    "unformattedPrice": 1950,
+    "address": "6350 Genesee Ave UNIT 210, San Diego, CA 92122",
+    "addressStreet": "6350 Genesee Ave UNIT 210",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 578,
+    "latLong": {
+      "latitude": 32.853275,
+      "longitude": -117.20474
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "7 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 335600,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": "2022-11-18 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 2250
+  },
+  {
+    "zpid": "17191275",
+    "id": "17191275",
+    "providerListingId": "28uyn9xjrs4q9",
+    "imgSrc": "https://photos.zillowstatic.com/fp/e6950319ef1570d8dc7226c743b9e0ec-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/5966-Carnegie-St-San-Diego-CA-92122/17191275_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "$",
+    "price": "$10,000/mo",
+    "unformattedPrice": 10000,
+    "address": "5966 Carnegie St, San Diego, CA 92122",
+    "addressStreet": "5966 Carnegie St",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 3,
+    "area": 2254,
+    "latLong": {
+      "latitude": 32.849865,
+      "longitude": -117.21733
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "24 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 1859400,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": null,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 5962
+  },
+  {
+    "zpid": "16841941",
+    "id": "16841941",
+    "providerListingId": "vtkgre47bq85",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4ded8d4235d94bd1d0c5aa5c16d5c589-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/3076-Governor-Dr-San-Diego-CA-92122/16841941_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "$",
+    "price": "$4,495/mo",
+    "unformattedPrice": 4495,
+    "address": "3076 Governor Dr, San Diego, CA 92122",
+    "addressStreet": "3076 Governor Dr",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 2,
+    "area": 1400,
+    "latLong": {
+      "latitude": 32.85144,
+      "longitude": -117.21976
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "42 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 1136000,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": null,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 4500
+  },
+  {
+    "zpid": "32.864555_rrc2*-rrc_117.22812",
+    "id": "32.864555_rrc2*-rrc_117.22812",
+    "lotId": 1001734846,
+    "imgSrc": "https://photos.zillowstatic.com/fp/62ef5780942ea83b652302a7b47dbdce-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/7405-charmant-dr-san-diego-ca-5XmbgJ/",
+    "latLong": {
+      "latitude": 32.864555,
+      "longitude": -117.22812
+    },
+    "units": [
+      {
+        "price": "$3,100+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "43 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "7405 Charmant Dr, San Diego, CA",
+    "addressStreet": "7405 Charmant Dr Unit 2218",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "3phvm98z4rxw5",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "16842530",
+    "id": "16842530",
+    "providerListingId": "4mrm5pncwj9bh",
+    "imgSrc": "https://photos.zillowstatic.com/fp/7db22aadd95cb126a6231b9d7f108d37-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/4026-Caminito-Cassis-San-Diego-CA-92122/16842530_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "$",
+    "price": "$6,500/mo",
+    "unformattedPrice": 6500,
+    "address": "4026 Caminito Cassis, San Diego, CA 92122",
+    "addressStreet": "4026 Caminito Cassis",
+    "addressCity": "San Diego",
+    "addressState": "CA",
+    "addressZipcode": "92122",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 3,
+    "area": 2435,
+    "latLong": {
+      "latitude": 32.856705,
+      "longitude": -117.22563
+    },
+    "isZillowOwned": false,
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "39 days ago",
+      "data": {
+        "isFresh": false
+      }
+    },
+    "badgeInfo": null,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 1702500,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "availabilityDate": "2022-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": 5999
+  },
+  {
+    "zpid": "32.848976_rrc2*-rrc_117.19561",
+    "id": "32.848976_rrc2*-rrc_117.19561",
+    "lotId": null,
+    "imgSrc": "https://photos.zillowstatic.com/fp/118f414d8d328a5a2e428c81ba2c754b-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/San-Diego-CA/32.848976,-117.19561_ll/",
+    "latLong": {
+      "latitude": 32.848976,
+      "longitude": -117.19561
+    },
+    "units": [
+      {
+        "price": "$3,700+",
+        "beds": "2"
+      },
+      {
+        "price": "$4,390+",
+        "beds": "3"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "40 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "6064 Erlanger St, San Diego, CA",
+    "addressStreet": "6064 Erlanger St ",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "4zbk2rb6vjzwy",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  },
+  {
+    "zpid": "32.865036_rrc2*-rrc_117.20219",
+    "id": "32.865036_rrc2*-rrc_117.20219",
+    "lotId": 1004373388,
+    "imgSrc": "https://photos.zillowstatic.com/fp/9498413d6a03eab0a33eacc314ce6881-p_e.jpg",
+    "hasImage": true,
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "detailUrl": "/b/7274-Shoreline-Dr-San-Diego-CA/32.865036,-117.20219_ll/",
+    "latLong": {
+      "latitude": 32.865036,
+      "longitude": -117.20219
+    },
+    "units": [
+      {
+        "price": "$3,200+",
+        "beds": "2"
+      }
+    ],
+    "variableData": {
+      "type": "TIME_ON_INFO",
+      "text": "42 days ago"
+    },
+    "badgeInfo": null,
+    "buildingName": null,
+    "isBuilding": true,
+    "address": "7274 Shoreline Dr, San Diego, CA",
+    "addressStreet": "7274 Shoreline Dr Unit 117",
+    "addressState": "CA",
+    "addressCity": "San Diego",
+    "addressZipcode": "92122",
+    "providerListingId": "2u5afmr78q04u",
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "list": true,
+    "relaxed": false,
+    "rentZestimate": null
+  }
+]

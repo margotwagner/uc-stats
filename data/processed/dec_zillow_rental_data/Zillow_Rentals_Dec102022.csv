@@ -1,0 +1,653 @@
+,statusText,price,address,addressZipcode,beds,baths,area,rentZestimate,variableData.text,units
+0,Apartment for rent,3500,"1533 Beryl St #1-R, San Diego, CA 92109",92109,1.0,1.0,420.0,,17 days ago,
+1,Apartment for rent,3500,"(undisclosed Address), San Diego, CA 92109",92109,2.0,1.0,750.0,,21 days ago,
+2,House for rent,7500,"815 Ostend Ct, San Diego, CA 92109",92109,3.0,3.0,1414.0,4855.0,19 days ago,
+3,Apartment for rent,3999,"1235 Parker Pl UNIT 3K, San Diego, CA 92109",92109,2.0,2.0,866.0,3796.0,22 days ago,
+4,Apartment for rent,3100,"(undisclosed Address), San Diego, CA 92109",92109,1.0,1.0,500.0,,19 days ago,
+5,Apartment for rent,2795,"737 Wave Crest Ct, San Diego, CA 92109",92109,1.0,1.0,500.0,2495.0,3 days ago,
+6,Apartment for rent,2900,"844 Diamond St, San Diego, CA 92109",92109,2.0,1.0,900.0,,16 days ago,
+7,Apartment for rent,2375,"1049 Felspar St UNIT 24, San Diego, CA 92109",92109,0.0,1.0,405.0,2314.0,28 days ago,
+8,Apartment for rent,4500,"3888 Riviera Dr UNIT 206, San Diego, CA 92109",92109,2.0,2.0,1039.0,4288.0,19 days ago,
+9,House for rent,2850,"4060 Kendall St, San Diego, CA 92109",92109,1.0,1.0,500.0,8147.0,6 days ago,
+10,Apartment for rent,3700,"1345 Felspar St #4, San Diego, CA 92109",92109,2.0,1.0,840.0,,23 days ago,
+11,Apartment for rent,4300,"4015 Crown Point Dr UNIT 110, San Diego, CA 92109",92109,2.0,2.0,973.0,3804.0,8 days ago,
+12,Apartment for rent,6900,"1161 Pacific Beach Dr, San Diego, CA 92109",92109,2.0,3.0,1825.0,8473.0,30 days ago,
+13,Townhouse for rent,5300,"1473 Chalcedony St, San Diego, CA 92109",92109,3.0,3.0,1349.0,5284.0,20 days ago,
+14,House for rent,3800,"3721 Yosemite St, San Diego, CA 92109",92109,2.0,1.0,1031.0,3999.0,19 days ago,
+15,Apartment for rent,4100,"1804 Missouri St #1806, San Diego, CA 92109",92109,2.0,1.0,988.0,,23 days ago,
+16,House for rent,2700,"1277 Beryl St, San Diego, CA 92109",92109,1.0,1.0,792.0,6716.0,11 days ago,
+17,Apartment for rent,2900,"1220 Pacific Beach Dr APT 5, San Diego, CA 92109",92109,1.0,1.0,650.0,2795.0,2 days ago,
+18,Apartment for rent,5999,"4050 Riviera Dr, San Diego, CA 92109",92109,2.0,2.5,1595.0,4888.0,30 days ago,
+19,Townhouse for rent,5000,"811 Anacapa Ct, San Diego, CA 92109",92109,3.0,2.0,1400.0,5206.0,4 days ago,
+20,Apartment for rent,7000,"3227 Ocean Front Walk, San Diego, CA 92109",92109,2.0,1.0,1000.0,3775.0,10 days ago,
+21,Townhouse for rent,5600,"1568 Oliver Ave APT A, San Diego, CA 92109",92109,3.0,3.0,1650.0,5495.0,42 days ago,
+22,Townhouse for rent,4395,"1756 Reed Ave, San Diego, CA 92109",92109,2.0,2.5,1328.0,4699.0,23 days ago,
+23,Apartment for rent,3000,"739 San Luis Rey Pl, San Diego, CA 92109",92109,0.0,1.0,400.0,2300.0,42 days ago,
+24,Apartment for rent,3500,"725 San Luis Rey Pl #725, San Diego, CA 92109",92109,1.0,1.0,500.0,,43 days ago,
+25,House for rent,7500,"988 Agate St, San Diego, CA 92109",92109,3.0,2.0,1000.0,4981.0,22 days ago,
+26,House for rent,5500,"(undisclosed Address), San Diego, CA 92109",92109,2.0,2.0,1000.0,4323.0,42 days ago,
+27,Apartment for rent,3400,"840 Turquoise St UNIT 304, San Diego, CA 92109",92109,1.0,1.0,642.0,3000.0,30 days ago,
+28,Apartment for rent,4000,"4869 Cass St, San Diego, CA 92109",92109,3.0,1.0,1050.0,,11 days ago,
+29,Apartment for rent,2350,"1920 Felspar St #6, San Diego, CA 92109",92109,1.0,1.0,600.0,,24 days ago,
+30,Apartment for rent,2450,"1327 Grand Ave, San Diego, CA 92109",92109,1.0,1.0,630.0,3699.0,30 days ago,
+31,House for rent,1900,"3555 Promontory St, San Diego, CA 92109",92109,1.0,1.0,170.0,12048.0,8 days ago,
+32,Apartment for rent,2895,"3726 Ingraham St, San Diego, CA 92109",92109,2.0,1.0,800.0,3261.0,2 hours ago,
+33,House for rent,4000,"811 Santa Clara Pl, San Diego, CA 92109",92109,2.0,2.0,1200.0,4498.0,10 days ago,
+34,Apartment for rent,1895,"2176 Thomas Ave APT 4, San Diego, CA 92109",92109,0.0,1.0,450.0,1997.0,29 days ago,
+35,Townhouse for rent,3500,"4510 Bond St, San Diego, CA 92109",92109,3.0,1.5,1100.0,,12 days ago,
+36,Apartment for rent,4500,"2050 Pacific Beach Dr UNIT 107, San Diego, CA 92109",92109,3.0,2.0,1565.0,4970.0,25 days ago,
+37,House for rent,10500,"1542 Monmouth Dr, San Diego, CA 92109",92109,4.0,3.0,1986.0,6499.0,Video Walkthrough,
+38,Apartment for rent,2950,"7744 Fay Ave UNIT 203, La Jolla, CA 92037",92037,1.0,1.0,690.0,3046.0,2 days ago,
+39,Apartment for rent,2495,"440 Nautilus St, La Jolla, CA 92037",92037,1.0,1.0,450.0,2495.0,4 days ago,
+40,Apartment for rent,4100,"5410 La Jolla Blvd #A212, La Jolla, CA 92037",92037,1.0,2.0,1340.0,6847.0,11 days ago,
+41,House for rent,15000,"1294 Silverado St, La Jolla, CA 92037",92037,2.0,2.0,1734.0,6822.0,12 days ago,
+42,Apartment for rent,3500,"(undisclosed Address), La Jolla, CA 92037",92037,1.0,1.0,400.0,,5 days ago,
+43,House for rent,12500,"7944 Prospect Pl, La Jolla, CA 92037",92037,4.0,4.0,3247.0,14707.0,10 days ago,
+44,House for rent,6500,"6535 Caminito Northland, La Jolla, CA 92037",92037,3.0,3.0,2800.0,6646.0,4 days ago,
+45,House for rent,8250,"902 Newkirk Dr, La Jolla, CA 92037",92037,2.0,2.0,1800.0,8170.0,2 days ago,
+46,House for rent,4700,"520 Arenas St, La Jolla, CA 92037",92037,2.0,1.0,1000.0,4205.0,9 days ago,
+47,House for rent,15000,"2686 Caminito Prado, La Jolla, CA 92037",92037,4.0,4.0,3500.0,11473.0,4 days ago,
+48,Apartment for rent,3500,"8803 Gilman Dr UNIT H, La Jolla, CA 92037",92037,2.0,1.5,885.0,3200.0,20 hours ago,
+49,Apartment for rent,3700,"8722 Villa La Jolla Dr UNIT 97, La Jolla, CA 92037",92037,2.0,1.5,1104.0,3394.0,25 days ago,
+50,House for rent,20000,"2641 Costebelle Dr, La Jolla, CA 92037",92037,5.0,7.0,5376.0,21786.0,18 days ago,
+51,House for rent,10500,"5385 La Jolla Mesa Dr, La Jolla, CA 92037",92037,4.0,5.0,4274.0,11497.0,28 days ago,
+52,Townhouse for rent,7500,"312 Palomar Ave, La Jolla, CA 92037",92037,3.0,2.5,1900.0,8840.0,11 days ago,
+53,House for rent,15000,"(undisclosed Address), La Jolla, CA 92037",92037,3.0,2.0,1570.0,9140.0,3D Tour,
+54,Apartment for rent,3800,"8850 Villa La Jolla Dr UNIT 207, La Jolla, CA 92037",92037,2.0,2.0,1243.0,3495.0,30 days ago,
+55,House for rent,9875,"1211 W Muirlands Dr, La Jolla, CA 92037",92037,4.0,3.0,3309.0,11833.0,18 days ago,
+56,House for rent,6950,"7818 Exchange Pl, La Jolla, CA 92037",92037,3.0,3.0,1950.0,7928.0,12 days ago,
+57,House for rent,12000,"(undisclosed Address), La Jolla, CA 92037",92037,4.0,2.0,2400.0,11894.0,1 day ago,
+58,House for rent,18500,"7578 Cabrillo Ave, La Jolla, CA 92037",92037,2.0,2.0,1802.0,11784.0,35 days ago,
+59,House for rent,12600,"5695 Soledad Mountain Rd, La Jolla, CA 92037",92037,5.0,4.5,4000.0,11694.0,42 days ago,
+60,House for rent,9700,"6144 Castejon Dr, La Jolla, CA 92037",92037,4.0,2.0,2304.0,8712.0,42 days ago,
+61,Apartment for rent,6000,"1039 Coast Blvd UNIT E, La Jolla, CA 92037",92037,2.0,2.0,1294.0,6175.0,30 days ago,
+62,House for rent,36000,"1245 Coast Blvd, La Jolla, CA 92037",92037,3.0,4.5,5156.0,19053.0,30 days ago,
+63,Apartment for rent,8500,"5430 La Jolla Blvd UNIT C202, La Jolla, CA 92037",92037,2.0,2.0,1827.0,7900.0,30 days ago,
+64,Townhouse for rent,7500,"6624 La Jolla Blvd, La Jolla, CA 92037",92037,3.0,3.5,1586.0,7535.0,9 days ago,
+65,House for rent,7800,"252 Palomar Ave, La Jolla, CA 92037",92037,3.0,2.0,1366.0,11383.0,10 days ago,
+66,Apartment for rent,8000,"1761 Colgate Cir #2, La Jolla, CA 92037",92037,2.0,2.0,1750.0,7189.0,12 days ago,
+67,House for rent,20000,"7274 Via Capri, La Jolla, CA 92037",92037,4.0,3.5,2700.0,9815.0,8 days ago,
+68,House for rent,24000,"5904 Camino De La Costa, La Jolla, CA 92037",92037,4.0,2.5,3079.0,16610.0,40 days ago,
+69,House for rent,39000,"1241 Coast Blvd, La Jolla, CA 92037",92037,3.0,5.0,5664.0,22799.0,30 days ago,
+70,Townhouse for rent,4250,"8694 Villa La Jolla Dr UNIT 5, La Jolla, CA 92037",92037,3.0,3.0,1356.0,4028.0,43 days ago,
+71,Townhouse for rent,6500,"603 Fern Gln, La Jolla, CA 92037",92037,2.0,2.5,,6777.0,5 days ago,
+72,House for rent,15500,"1402 Rodeo Dr, La Jolla, CA 92037",92037,4.0,3.5,2600.0,13587.0,42 days ago,
+73,Apartment for rent,6500,"8030 La Jolla Shores Dr, La Jolla, CA 92037",92037,3.0,2.0,1600.0,8500.0,43 days ago,
+74,House for rent,10895,"5484 Chelsea Ave, La Jolla, CA 92037",92037,4.0,3.0,2854.0,13756.0,42 days ago,
+75,House for rent,11000,"7209 Fay Ave, La Jolla, CA 92037",92037,4.0,4.0,2858.0,12490.0,7 days ago,
+76,House for rent,5700,"6655 Hollycrest Ct, San Diego, CA 92121",92121,5.0,3.0,3000.0,6428.0,8 days ago,
+77,House for rent,5600,"6534 Windward Ridge Way, San Diego, CA 92121",92121,5.0,3.0,2893.0,6499.0,18 days ago,
+78,Townhouse for rent,3500,"10368 Wateridge Cir UNIT 329, San Diego, CA 92121",92121,2.0,2.5,1148.0,3633.0,4 days ago,
+79,House for rent,3995,"5128 Sea Mist Ct, San Diego, CA 92121",92121,3.0,2.0,1532.0,4300.0,24 days ago,
+80,Apartment for rent,6500,"5874 Oceanview Ridge Ln #A, San Diego, CA 92121",92121,5.0,3.0,2432.0,,43 days ago,
+81,Townhouse for rent,3850,"9310 Towne Centre Dr UNIT 72, San Diego, CA 92121",92121,2.0,3.0,1222.0,3558.0,18 days ago,
+82,Apartment for rent,3395,"9664 Caminito Del Feliz #37, San Diego, CA 92121",92121,3.0,1.5,1113.0,3964.0,24 days ago,
+83,Apartment for rent,4100,"9505 Easter Way APT 8, San Diego, CA 92121",92121,3.0,2.5,1264.0,3896.0,17 days ago,
+84,Townhouse for rent,3500,"10272 Wateridge Cir UNIT 232, San Diego, CA 92121",92121,2.0,3.0,1148.0,3664.0,21 days ago,
+85,House for rent,4895,"10758 Juniper Park Ln, San Diego, CA 92121",92121,4.0,3.0,2432.0,5995.0,5 days ago,
+86,Townhouse for rent,3800,"4495 Vision Dr, San Diego, CA 92121",92121,2.0,2.5,1150.0,4294.0,2 days ago,
+87,Townhouse for rent,4150,"10180 Wateridge Cir, San Diego, CA 92121",92121,3.0,2.5,1390.0,4194.0,42 days ago,
+88,Apartment for rent,2650,"3718 Ingraham St #3718, San Diego, CA 92109",92109,1.0,1.0,500.0,2394.0,3 days ago,
+89,Apartment for rent,1395,"2618 Figueroa Blvd, San Diego, CA 92109",92109,1.0,1.0,350.0,2175.0,5 days ago,
+90,House for rent,9995,"(undisclosed Address), San Diego, CA 92109",92109,4.0,3.5,2100.0,8395.0,15 days ago,
+91,Apartment for rent,3995,"(undisclosed Address), San Diego, CA 92109",92109,1.0,1.0,850.0,3800.0,6 days ago,
+92,Apartment for rent,2195,"886 Agate St #886, San Diego, CA 92109",92109,1.0,1.0,650.0,,16 days ago,
+93,Apartment for rent,2200,"(undisclosed Address), San Diego, CA 92109",92109,1.0,1.0,800.0,2412.0,43 days ago,
+94,Apartment for rent,2525,"1051 Law St #7, San Diego, CA 92109",92109,1.0,1.0,725.0,2995.0,2 days ago,
+95,Apartment for rent,2150,"Maya Linda, 9646 Carroll Canyon Rd, San Diego, CA 92126",92126,1.0,1.0,650.0,2701.0,39 days ago,
+96,House for rent,3595,"11303 Kelowna Rd, San Diego, CA 92126",92126,4.0,2.0,1614.0,3933.0,19 hours ago,
+97,Townhouse for rent,2700,"11185 Kelowna Rd #63-1, San Diego, CA 92126",92126,2.0,1.0,698.0,,20 hours ago,
+98,House for rent,2395,"10535 Caminito Westchester, San Diego, CA 92126",92126,2.0,1.0,932.0,2650.0,1 day ago,
+99,House for rent,3100,"10202 Trails End Cir, San Diego, CA 92126",92126,3.0,2.0,1134.0,3663.0,2 days ago,
+100,Apartment for rent,950,"7908 Port Royale Dr #2, San Diego, CA 92126",92126,1.0,1.0,160.0,1605.0,3 days ago,
+101,House for rent,4000,"10911 New Salem Ct, San Diego, CA 92126",92126,4.0,2.0,1622.0,4099.0,2 days ago,
+102,House for rent,2200,"8418D Summerdale Rd, San Diego, CA 92126",92126,2.0,2.0,986.0,,3 days ago,
+103,House for rent,2350,"9715 Mesa Springs Way UNIT 202, San Diego, CA 92126",92126,1.0,1.0,772.0,2345.0,12 days ago,
+104,House for rent,3450,"6960 Kensley Way, San Diego, CA 92126",92126,3.0,3.0,1448.0,3999.0,23 hours ago,
+105,Apartment for rent,2195,"9586 Carroll Canyon Rd APT 164, San Diego, CA 92126",92126,1.0,1.0,604.0,2370.0,18 hours ago,
+106,Apartment for rent,2600,"10006 Maya Linda Rd UNIT 5101, San Diego, CA 92126",92126,2.0,2.0,956.0,2799.0,3 days ago,
+107,House for rent,2800,"11432 Vela Dr, San Diego, CA 92126",92126,2.0,1.0,600.0,2497.0,14 days ago,
+108,House for rent,1250,"11371 Bootes St, San Diego, CA 92126",92126,4.0,3.0,1405.0,3499.0,1 day ago,
+109,House for rent,4495,"7992 Merrington Pl, San Diego, CA 92126",92126,4.0,2.5,2138.0,5000.0,9 days ago,
+110,House for rent,4500,"10697 Glendover Ln, San Diego, CA 92126",92126,4.0,2.5,1795.0,4500.0,3 hours ago,
+111,House for rent,3900,"10945 Welsh Rd, San Diego, CA 92126",92126,3.0,2.0,1757.0,3899.0,22 days ago,
+112,Townhouse for rent,4000,"11108 Caminito Inocenta, San Diego, CA 92126",92126,4.0,3.0,2169.0,5029.0,20 days ago,
+113,Apartment for rent,2150,"10210 Black Mountain Rd APT 38, San Diego, CA 92126",92126,1.0,1.0,525.0,2094.0,3D Tour,
+114,Townhouse for rent,3999,"10539 Caminito Pollo, San Diego, CA 92126",92126,4.0,2.0,1750.0,3934.0,30 days ago,
+115,Apartment for rent,2800,"10970 Summerdale Way APT 315, San Diego, CA 92126",92126,2.0,2.0,897.0,2995.0,9 days ago,
+116,House for rent,3395,"9446 Compass Point Dr S UNIT 6, San Diego, CA 92126",92126,3.0,2.5,1349.0,3595.0,43 days ago,
+117,Apartment for rent,2750,"7389 Calle Cristobal UNIT 237, San Diego, CA 92126",92126,2.0,2.0,864.0,2995.0,3D Tour,
+118,House for rent,5195,"7912 Dancy Rd, San Diego, CA 92126",92126,4.0,2.0,1366.0,3737.0,42 days ago,
+119,Apartment for rent,2600,"8690 New Salem St UNIT 186, San Diego, CA 92126",92126,2.0,2.0,831.0,2650.0,1 day ago,
+120,Apartment for rent,1900,"(undisclosed Address), San Diego, CA 92126",92126,1.0,1.0,400.0,,1 day ago,
+121,Apartment for rent,2500,"8520 Summerdale Rd APT 49, San Diego, CA 92126",92126,1.0,1.0,561.0,2188.0,3 days ago,
+122,Apartment for rent,2600,"10720 Aderman Ave APT 55, San Diego, CA 92126",92126,2.0,2.0,920.0,2900.0,2 days ago,
+123,Apartment for rent,3800,"11165 Taloncrest Way UNIT 45, San Diego, CA 92126",92126,3.0,2.0,1465.0,3999.0,2 days ago,
+124,Apartment for rent,3200,"7644 Palmilla Dr UNIT 23, San Diego, CA 92122",92122,2.0,2.0,1004.0,3499.0,7 days ago,
+125,Apartment for rent,3500,"7612 Palmilla Dr UNIT 46, San Diego, CA 92122",92122,2.0,2.0,1004.0,3458.0,4 days ago,
+126,Condo for rent,2175,"6214 Agee St UNIT 39, San Diego, CA 92122",92122,1.0,1.0,692.0,2496.0,9 days ago,
+127,Townhouse for rent,6300,"4082 Mahaila Ave UNIT F, San Diego, CA 92122",92122,4.0,2.5,1819.0,4692.0,12 days ago,
+128,Apartment for rent,1900,"2921 Renault St, San Diego, CA 92122",92122,1.0,1.0,540.0,2355.0,8 days ago,
+129,House for rent,2995,"4124 Camino Ticino, San Diego, CA 92122",92122,2.0,1.0,882.0,2892.0,1 day ago,
+130,Apartment for rent,1950,"6350 Genesee Ave UNIT 210, San Diego, CA 92122",92122,1.0,1.0,578.0,2250.0,7 days ago,
+131,House for rent,10000,"5966 Carnegie St, San Diego, CA 92122",92122,4.0,3.0,2254.0,5962.0,24 days ago,
+132,House for rent,4495,"3076 Governor Dr, San Diego, CA 92122",92122,3.0,2.0,1400.0,4500.0,42 days ago,
+133,House for rent,6500,"4026 Caminito Cassis, San Diego, CA 92122",92122,4.0,3.0,2435.0,5999.0,39 days ago,
+134,House for rent,5900,"7855 Calle Juela, La Jolla, CA 92037",92037,4.0,2.5,2600.0,9841.0,24 days ago,
+135,House for rent,11495,"249 Playa Del Norte St, La Jolla, CA 92037",92037,3.0,3.5,3000.0,10624.0,19 days ago,
+136,House for rent,25000,"887 La Jolla Rancho Rd, La Jolla, CA 92037",92037,4.0,3.5,3786.0,15088.0,17 days ago,
+137,House for rent,7900,"2139 Torrey Pines Rd, La Jolla, CA 92037",92037,6.0,4.0,3400.0,8945.0,42 days ago,
+138,House for rent,6595,"846 Forward St, La Jolla, CA 92037",92037,3.0,2.0,1500.0,7108.0,43 days ago,
+139,Townhouse for rent,6250,"1804 Caminito Ascua, La Jolla, CA 92037",92037,3.0,3.0,2069.0,6087.0,30 minutes ago,
+140,House for rent,6250,"5736 Caminito Pulsera, La Jolla, CA 92037",92037,3.0,2.5,2558.0,5999.0,9 days ago,
+141,House for rent,9500,"6672 Avenida Manana, La Jolla, CA 92037",92037,3.0,2.0,2070.0,9823.0,29 days ago,
+142,House for rent,8900,"5565 Beaumont Ave, La Jolla, CA 92037",92037,4.0,2.5,2800.0,11219.0,22 days ago,
+143,Condo for rent,3900,"8537 Villa La Jolla Dr APT D, La Jolla, CA 92037",92037,1.0,1.0,691.0,2305.0,39 days ago,
+144,House for rent,6495,"6689 La Jolla Scenic Dr S, La Jolla, CA 92037",92037,4.0,3.5,2500.0,8999.0,37 days ago,
+145,House for rent,8900,"2035 Caminito El Canario, La Jolla, CA 92037",92037,4.0,3.0,3240.0,9105.0,43 days ago,
+146,House for rent,5995,"5747 La Jolla Blvd, La Jolla, CA 92037",92037,2.0,2.0,1600.0,6851.0,5 days ago,
+147,Apartment for rent,6800,"7635 Draper Ave, La Jolla, CA 92037",92037,2.0,2.0,1830.0,8470.0,39 days ago,
+148,House for rent,6295,"2010 Caminito San Nicholas, La Jolla, CA 92037",92037,3.0,2.0,1700.0,5713.0,Video Walkthrough,
+149,Apartment for rent,11750,"7147 Fay Ave, La Jolla, CA 92037",92037,3.0,3.5,3006.0,9040.0,10 days ago,
+150,House for rent,11000,"1307 Massena St, La Jolla, CA 92037",92037,4.0,2.5,3340.0,10588.0,42 days ago,
+151,House for rent,6488,"712 Silver St, La Jolla, CA 92037",92037,3.0,3.0,2292.0,10659.0,1 day ago,
+152,Townhouse for rent,3995,"8627 Via Mallorca UNIT F, La Jolla, CA 92037",92037,3.0,2.5,1680.0,4194.0,43 days ago,
+153,House for rent,5700,"1629 Caminito Barlovento, La Jolla, CA 92037",92037,2.0,2.0,1670.0,5850.0,15 days ago,
+154,House for rent,5850,"5436 Caminito San Lucas, La Jolla, CA 92037",92037,3.0,2.5,2080.0,6028.0,23 days ago,
+155,House for rent,8500,"5559 Chelsea Ave, La Jolla, CA 92037",92037,3.0,2.5,2030.0,11032.0,22 days ago,
+156,House for rent,9800,"1563 Calle Candela, La Jolla, CA 92037",92037,5.0,2.5,3118.0,10372.0,22 days ago,
+157,Apartment for rent,1800,"SVO: RG, 1141 Silverado St #111, La Jolla, CA 92037",92037,0.0,1.0,200.0,1741.0,30 days ago,
+158,House for rent,7495,"7276 Rue Michael, La Jolla, CA 92037",92037,4.0,2.0,2169.0,8594.0,43 days ago,
+159,House for rent,29500,"1718 Valdes Dr, La Jolla, CA 92037",92037,4.0,7.0,6380.0,24345.0,22 hours ago,
+160,House for rent,25000,"7803 Prospect Pl, La Jolla, CA 92037",92037,4.0,6.0,5476.0,22501.0,42 days ago,
+161,House for rent,7300,"940 W Muirlands Dr, La Jolla, CA 92037",92037,4.0,2.0,2000.0,8150.0,42 days ago,
+162,House for rent,18500,"1141 Muirlands Vista Way, La Jolla, CA 92037",92037,4.0,4.5,4300.0,20162.0,42 days ago,
+163,Apartment for rent,2900,"7512 Draper Ave, La Jolla, CA 92037",92037,1.0,1.0,440.0,2449.0,43 days ago,
+164,Apartment for rent,1995,"1121-1129 Torrey Pines, 1121-1129 N Torrey Pines Rd #1125A, La Jolla, CA 92037",92037,1.0,1.0,,,8 days ago,
+165,Apartment for rent,12500,"354 Kolmar St, La Jolla, CA 92037",92037,3.0,2.5,1904.0,8682.0,42 days ago,
+166,House for rent,19000,"5802 Corral Way, La Jolla, CA 92037",92037,4.0,3.5,5500.0,25055.0,43 days ago,
+167,Apartment for rent,8500,"1040 Genter St UNIT 305, La Jolla, CA 92037",92037,3.0,3.0,2893.0,8849.0,2 hours ago,
+168,Apartment for rent,3695,"7556 Herschel Ave, La Jolla, CA 92037",92037,1.0,1.0,600.0,2995.0,1 day ago,
+169,Townhouse for rent,5895,"2585 Caminito Muirfield, La Jolla, CA 92037",92037,3.0,2.5,1858.0,5949.0,1 day ago,
+170,House for rent,10499,"6087 Firwood Row, La Jolla, CA 92037",92037,4.0,3.5,2939.0,8470.0,1 day ago,
+171,House for rent,14950,"1865 Soledad Ave, La Jolla, CA 92037",92037,5.0,4.0,4335.0,13015.0,2 days ago,
+172,Apartment for rent,6000,"800 Prospect St UNIT 4C, La Jolla, CA 92037",92037,2.0,2.0,1142.0,5000.0,4 days ago,
+173,Apartment for rent,2995,"The Grand Apartments Pacific Beach, 930 Felspar St APT 9, San Diego, CA 92109",92109,1.0,1.0,550.0,2899.0,22 days ago,
+174,Apartment for rent,2395,"3600 Mission, 3600 Mission Blvd APT 10, San Diego, CA 92109",92109,1.0,1.0,,2389.0,13 hours ago,
+175,Apartment for rent,2295,"1550 Hornblend St UNIT 12, San Diego, CA 92109",92109,1.0,1.0,,,1 day ago,
+176,Apartment for rent,2995,"1671 Chalcedony St APT 4, San Diego, CA 92109",92109,2.0,1.0,,,1 day ago,
+177,Apartment for rent,2500,"4621 Lamont St UNIT 1B, San Diego, CA 92109",92109,1.0,1.0,610.0,2551.0,1 day ago,
+178,House for rent,5500,"2457 Geranium St, San Diego, CA 92109",92109,3.0,2.5,1717.0,5699.0,1 day ago,
+179,Apartment for rent,2695,"863 Sapphire St APT 5, San Diego, CA 92109",92109,1.0,1.0,550.0,,1 day ago,
+180,Apartment for rent,2495,"740 Sapphire St APT 11, San Diego, CA 92109",92109,1.0,1.0,450.0,2845.0,2 days ago,
+181,Apartment for rent,6695,"3261 Ocean Front Walk #2, San Diego, CA 92109",92109,3.0,2.0,1200.0,4721.0,5 days ago,
+182,Apartment for rent,6000,"3338 Bayside Walk UNIT D, San Diego, CA 92109",92109,2.0,2.0,815.0,3814.0,3 days ago,
+183,Condo for rent,2995,"712 Zanzibar Ct, San Diego, CA 92109",92109,1.0,1.0,,2962.0,5 days ago,
+184,Apartment for rent,2545,"ECW - Ensenada Court, 725-731.5 Ensenada Ct #727, San Diego, CA 92109",92109,1.0,1.0,,,2 days ago,
+185,Apartment for rent,1900,"4275 Morrell St APT D, San Diego, CA 92109",92109,1.0,1.0,550.0,2394.0,4 days ago,
+186,Apartment for rent,2795,"3833 Jewell, 3833 Jewell St #2, San Diego, CA 92109",92109,1.0,1.0,610.0,,3 days ago,
+187,Apartment for rent,2050,"2741 Hornblend St APT 6, San Diego, CA 92109",92109,1.0,1.0,625.0,2394.0,4 days ago,
+188,Apartment for rent,1850,"1845 Hornblend St APT 1, San Diego, CA 92109",92109,0.0,1.0,425.0,2129.0,10 days ago,
+189,Apartment for rent,3700,"812-826 Tourmaline Street - 820, 820 Tourmaline St, San Diego, CA 92109",92109,2.0,2.0,950.0,,3 days ago,
+190,House for rent,5000,"1133 Sapphire St, San Diego, CA 92109",92109,3.0,2.0,1850.0,6499.0,3 days ago,
+191,Apartment for rent,3995,"Jm7: Rg/Eam-11.21, 777 Jamaica Court 398/am #E-K-10.21, San Diego, CA 92109",92109,2.0,2.0,,,3 days ago,
+192,Apartment for rent,2140,"1501 Reed Ave APT 2, San Diego, CA 92109",92109,1.0,1.5,700.0,,4 days ago,
+193,Apartment for rent,2050,"4080 Lamont Street (New) - 5, 4080 Lamont St, San Diego, CA 92109",92109,1.0,1.0,400.0,2197.0,17 days ago,
+194,Apartment for rent,3245,"Magnolia Avenue, 2635-2639 Magnolia Ave #A, San Diego, CA 92109",92109,2.0,1.0,925.0,2843.0,9 days ago,
+195,House for rent,21000,"5251 Pacifica Dr, San Diego, CA 92109",92109,6.0,5.0,5508.0,13121.0,3D Tour,
+196,Apartment for rent,2200,"1 bed, 525 sqft, $2,200, 3531 Del Rey St, San Diego, CA 92109",92109,1.0,1.0,525.0,1999.0,8 days ago,
+197,Apartment for rent,2815,"1747 Chalcedony St #8, San Diego, CA 92109",92109,1.0,1.0,650.0,,7 days ago,
+198,Apartment for rent,2190,"2032 Reed Ave, San Diego, CA 92109",92109,1.0,1.0,600.0,2395.0,10 days ago,
+199,Apartment for rent,2195,"Haines, 3703 Haines St #F, San Diego, CA 92109",92109,1.0,1.0,650.0,2546.0,11 days ago,
+200,Apartment for rent,2195,"1926-1942 Fortuna Avenue, 1926-1942 Fortuna Ave, San Diego, CA 92109",92109,1.0,1.0,,,9 days ago,
+201,Condo for rent,2800,"7970 Camino Kiosco, San Diego, CA 92122",92122,2.0,1.0,896.0,2893.0,21 hours ago,
+202,Condo for rent,3849,"3985 Nobel Dr, San Diego, CA 92122",92122,2.0,2.0,1100.0,3714.0,2 days ago,
+203,Apartment for rent,4500,"4060 Porte La Paz UNIT 29, San Diego, CA 92122",92122,2.0,1.0,806.0,2962.0,5 days ago,
+204,House for rent,4995,"3332 Stadium Ct, San Diego, CA 92122",92122,3.0,2.0,1554.0,4500.0,3 days ago,
+205,House for rent,5500,"2736 Arnoldson Ave, San Diego, CA 92122",92122,3.0,2.0,1986.0,5490.0,1 day ago,
+206,Apartment for rent,3500,"7969 Caminito Dia UNIT 3, San Diego, CA 92122",92122,2.0,2.0,927.0,3229.0,9 days ago,
+207,House for rent,5800,"5027 Via Papel, San Diego, CA 92122",92122,4.0,3.0,3070.0,6617.0,22 days ago,
+208,House for rent,4250,"6857 Radcliffe Dr, San Diego, CA 92122",92122,3.0,2.0,1319.0,4376.0,17 days ago,
+209,Townhouse for rent,4500,"4383 Nobel Dr UNIT 88, San Diego, CA 92122",92122,3.0,3.0,1886.0,4699.0,12 days ago,
+210,House for rent,4950,"5814 Ithaca Pl, San Diego, CA 92122",92122,4.0,2.0,1500.0,4500.0,8 days ago,
+211,Apartment for rent,3000,"7130 Shoreline Dr #1110, San Diego, CA 92122",92122,2.0,2.0,850.0,3200.0,9 days ago,
+212,Condo for rent,2000,"3987 Nobel Dr UNIT 347, San Diego, CA 92122",92122,1.0,1.0,554.0,2296.0,4 days ago,
+213,House for rent,5700,"5885 Honors Dr, San Diego, CA 92122",92122,4.0,3.0,1780.0,4931.0,12 days ago,
+214,Apartment for rent,2300,"3520 Lebon Dr UNIT 5319, San Diego, CA 92122",92122,1.0,1.0,535.0,2496.0,9 days ago,
+215,Townhouse for rent,4650,"8066 Camino Tranquilo, San Diego, CA 92122",92122,3.0,2.5,1342.0,3927.0,14 days ago,
+216,Apartment for rent,3200,"6860 Gullstrand St, San Diego, CA 92122",92122,2.0,2.0,700.0,4214.0,21 days ago,
+217,Townhouse for rent,5500,"3525 Lebon Dr UNIT A, San Diego, CA 92122",92122,2.0,2.5,1208.0,3536.0,39 days ago,
+218,Townhouse for rent,5500,"8118 Camino Tranquilo, San Diego, CA 92122",92122,3.0,3.0,1400.0,4500.0,4 days ago,
+219,Apartment for rent,2000,"8505 Summerdale Rd APT 380, San Diego, CA 92126",92126,1.0,1.0,596.0,2300.0,2 days ago,
+220,House for rent,3600,"7810 Hemphill Dr, San Diego, CA 92126",92126,3.0,2.0,1598.0,3913.0,1 day ago,
+221,House for rent,4200,"11175 Westonhill Dr, San Diego, CA 92126",92126,4.0,2.0,1614.0,4040.0,3 days ago,
+222,House for rent,5500,"10579 Cara Cara Dr, San Diego, CA 92126",92126,4.0,3.5,2316.0,,3 days ago,
+223,Apartment for rent,3300,"10551 Westonhill Dr, San Diego, CA 92126",92126,3.0,1.5,1188.0,3300.0,5 days ago,
+224,Apartment for rent,2800,"10750 Dabney Dr APT 42, San Diego, CA 92126",92126,2.0,2.0,920.0,2900.0,4 days ago,
+225,House for rent,3000,"11492 Belshire Ln, San Diego, CA 92126",92126,2.0,2.0,762.0,,9 hours ago,
+226,Apartment for rent,2999,"7350 Calle Cristobal UNIT 100, San Diego, CA 92126",92126,2.0,2.0,1114.0,3369.0,10 days ago,
+227,Apartment for rent,2600,"8582 Summerdale Rd APT 155, San Diego, CA 92126",92126,2.0,2.0,920.0,2699.0,6 days ago,
+228,Townhouse for rent,4250,"10537 Coupland Way, San Diego, CA 92126",92126,2.0,3.0,1700.0,,17 days ago,
+229,House for rent,3850,"7795 Gaston Dr, San Diego, CA 92126",92126,3.0,2.0,1598.0,3952.0,6 days ago,
+230,House for rent,3600,"8193 Valdosta Ave, San Diego, CA 92126",92126,3.0,2.0,1200.0,,4 days ago,
+231,House for rent,3995,"10397 Agar Ct, San Diego, CA 92126",92126,3.0,2.0,1266.0,3597.0,14 days ago,
+232,House for rent,3700,"11242 Nalco St, San Diego, CA 92126",92126,3.0,2.0,1350.0,3764.0,21 days ago,
+233,House for rent,3800,"11351 Calle Dario, San Diego, CA 92126",92126,4.0,2.0,1627.0,3999.0,13 days ago,
+234,Apartment for rent,2900,"10643 Dabney Dr APT 74, San Diego, CA 92126",92126,2.0,2.0,920.0,2900.0,24 days ago,
+235,House for rent,5000,"(undisclosed Address), San Diego, CA 92126",92126,5.0,3.0,2255.0,4814.0,42 days ago,
+236,Apartment for rent,3795,"11125 Taloncrest Way UNIT 3, San Diego, CA 92126",92126,3.0,2.0,1465.0,3999.0,8 days ago,
+237,House for rent,2500,"(undisclosed Address), San Diego, CA 92126",92126,1.0,1.0,800.0,,21 days ago,
+238,House for rent,3695,"10510 Matson Way, San Diego, CA 92126",92126,3.0,2.0,1134.0,3634.0,24 days ago,
+239,House for rent,5250,"7898 Hemphill Dr, San Diego, CA 92126",92126,4.0,3.0,2100.0,4558.0,11 days ago,
+240,House for rent,3700,"7539 Andasol St, San Diego, CA 92126",92126,3.0,2.0,1134.0,3699.0,1 day ago,
+241,House for rent,3650,"11667 Compass Point Dr N, San Diego, CA 92126",92126,3.0,2.5,1321.0,4067.0,17 days ago,
+242,Apartment for rent,2250,"8650 New Salem St UNIT 27, San Diego, CA 92126",92126,1.0,1.0,581.0,2264.0,28 days ago,
+243,House for rent,3900,"7847 Bacadi Dr, San Diego, CA 92126",92126,3.0,2.0,1428.0,3755.0,37 days ago,
+244,House for rent,3348,"7730 Parkdale Pl, San Diego, CA 92126",92126,3.0,2.0,1134.0,3699.0,23 days ago,
+245,House for rent,3700,"8655 Andromeda Rd, San Diego, CA 92126",92126,3.0,2.0,1405.0,3590.0,3D Tour,
+246,House for rent,6000,"(undisclosed Address), San Diego, CA 92126",92126,1.0,1.0,2250.0,4529.0,43 days ago,
+247,House for rent,4000,"3306 Lloyd St, San Diego, CA 92117",92117,2.0,1.0,760.0,8948.0,18 days ago,
+248,House for rent,8500,"3519 Moultrie Ave, San Diego, CA 92117",92117,4.0,3.5,3068.0,7940.0,43 days ago,
+249,House for rent,6500,"6571 Barnhurst Dr, San Diego, CA 92117",92117,4.0,2.0,1260.0,4134.0,8 days ago,
+250,House for rent,5000,"4332 Post Rd, San Diego, CA 92117",92117,4.0,2.0,1956.0,4966.0,18 days ago,
+251,Apartment for rent,4250,"5252 Balboa Arms Dr, San Diego, CA 92117",92117,4.0,2.0,1100.0,2797.0,39 days ago,
+252,House for rent,2850,"4584 Acoma Ave, San Diego, CA 92117",92117,1.0,1.0,600.0,,30 days ago,
+253,House for rent,5400,"(undisclosed Address), San Diego, CA 92117",92117,2.0,2.0,1403.0,4268.0,8 days ago,
+254,House for rent,3950,"3210 Geronimo Ave, San Diego, CA 92117",92117,4.0,2.0,2068.0,5400.0,28 days ago,
+255,Apartment for rent,2800,"4351 Clairemont Mesa Blvd, San Diego, CA 92117",92117,2.0,1.0,750.0,2587.0,10 days ago,
+256,House for rent,4500,"4181 Balboa Way, San Diego, CA 92117",92117,3.0,2.0,1584.0,4170.0,3 days ago,
+257,House for rent,2800,"4809 Appleton St, San Diego, CA 92117",92117,1.0,1.0,1200.0,,4 days ago,
+258,House for rent,4900,"5350 Clemente Pl, San Diego, CA 92117",92117,3.0,2.0,2000.0,5340.0,10 days ago,
+259,House for rent,2999,"5105 Bellvale Ave, San Diego, CA 92117",92117,3.0,2.0,1014.0,3469.0,43 days ago,
+260,Apartment for rent,2250,"6521 Beadnell Way #2, San Diego, CA 92117",92117,2.0,2.0,915.0,2797.0,23 days ago,
+261,Apartment for rent,2250,"Bay Ridge, 3010 Cowley Way, San Diego, CA 92117",92117,1.0,1.0,646.0,2642.0,43 days ago,
+262,Apartment for rent,2200,"4875 Cole St UNIT 54, San Diego, CA 92117",92117,3.0,1.5,962.0,3033.0,2 days ago,
+263,Apartment for rent,1695,"Pacific Palms, 5109-5139 Clairemont Mesa Blvd #229, San Diego, CA 92117",92117,0.0,1.0,375.0,,10 days ago,
+264,House for rent,2875,"5170 Clairemont Mesa Blvd UNIT 15, San Diego, CA 92117",92117,2.0,2.0,1026.0,3116.0,8 days ago,
+265,House for rent,7500,"2729 Erie St, San Diego, CA 92117",92117,4.0,2.5,1400.0,4500.0,3D Tour,
+266,House for rent,5750,"2782 Wyandotte Ave, San Diego, CA 92117",92117,3.0,3.0,1676.0,5066.0,18 days ago,
+267,Condo for rent,2650,"5404 Balboa Arms Dr UNIT 459, San Diego, CA 92117",92117,2.0,2.0,800.0,2937.0,19 days ago,
+268,Condo for rent,3390,"2930 Cowley Way UNIT 101, San Diego, CA 92117",92117,2.0,2.0,1364.0,3640.0,39 days ago,
+269,House for rent,5500,"4645 Iroquois Ave, San Diego, CA 92117",92117,3.0,2.0,1650.0,4495.0,12 days ago,
+270,House for rent,3950,"3696 Argonne St, San Diego, CA 92117",92117,3.0,2.0,1320.0,4226.0,9 days ago,
+271,House for rent,4999,"4173 Huerfano Ave, San Diego, CA 92117",92117,3.0,2.5,2018.0,5882.0,31 days ago,
+272,Apartment for rent,4395,"3244 Clairemont Mesa Blvd, San Diego, CA 92117",92117,4.0,4.0,1600.0,,1 day ago,
+273,Townhouse for rent,4150,"3752 Balboa Ter UNIT E, San Diego, CA 92117",92117,3.0,2.0,1441.0,4500.0,4 days ago,
+274,House for rent,4900,"3880 Hiawatha Way, San Diego, CA 92117",92117,3.0,1.0,1064.0,3734.0,43 days ago,
+275,House for rent,3450,"4691 Conrad Ave, San Diego, CA 92117",92117,3.0,2.0,1032.0,3863.0,7 days ago,
+276,Apartment for rent,2850,"3817 Clairemont Dr, San Diego, CA 92117",92117,2.0,2.0,1000.0,3418.0,42 days ago,
+277,Apartment for rent,1950,"4960 Clairemont Mesa Blvd #107, San Diego, CA 92117",92117,1.0,1.0,,,42 days ago,
+278,Apartment for rent,2850,"2512 Clairemont Dr UNIT 216, San Diego, CA 92117",92117,2.0,1.0,912.0,3200.0,22 hours ago,
+279,Apartment for rent,2400,"4290 Mount Abernathy Ave #10, San Diego, CA 92117",92117,1.0,1.0,585.0,,3 days ago,
+280,Apartment for rent,3100,"(undisclosed Address), San Diego, CA 92117",92117,2.0,2.0,878.0,3099.0,9 days ago,
+281,House for rent,5900,"4249 Gila Ave, San Diego, CA 92117",92117,3.0,2.0,1480.0,9685.0,4 days ago,
+282,House for rent,4500,"2683 Tonto Way, San Diego, CA 92117",92117,3.0,2.0,1196.0,4300.0,3 days ago,
+283,House for rent,4600,"4716 Edison St, San Diego, CA 92117",92117,3.0,2.0,1674.0,4495.0,15 days ago,
+284,Townhouse for rent,4200,"2774 Ariane Dr UNIT 75, San Diego, CA 92117",92117,2.0,2.5,1210.0,3463.0,25 days ago,
+285,House for rent,3750,"4793 Appleton St, San Diego, CA 92117",92117,1.0,1.0,600.0,4654.0,17 days ago,
+286,Apartment for rent,2150,"3817 Clairemont Dr #A, San Diego, CA 92117",92117,1.0,1.0,,,16 days ago,
+287,House for rent,2200,"5533 Conrad Ave, San Diego, CA 92117",92117,2.0,1.0,550.0,5059.0,6 days ago,
+288,House for rent,3000,"3175 Mandan Way, San Diego, CA 92117",92117,2.0,1.0,900.0,,8 days ago,
+289,House for rent,3899,"3121 Mooney St, San Diego, CA 92117",92117,3.0,2.0,1056.0,3934.0,10 days ago,
+290,Apartment for rent,2250,"6523 Beadnell Way #1, San Diego, CA 92117",92117,2.0,1.0,1000.0,,6 days ago,
+291,House for rent,4350,"4479 Pocahontas Ave, San Diego, CA 92117",92117,4.0,2.0,1800.0,4998.0,25 days ago,
+292,Apartment for rent,3000,"4060 Huerfano Ave UNIT 234, San Diego, CA 92117",92117,2.0,2.0,878.0,2997.0,20 days ago,
+293,House for rent,5000,"1205 Park Row, La Jolla, CA 92037",92037,2.0,2.0,1100.0,5000.0,24 days ago,
+294,House for rent,14000,"7435 Caminito Rialto, La Jolla, CA 92037",92037,4.0,3.0,2565.0,9081.0,43 days ago,
+295,Apartment for rent,5125,"733 Kline St UNIT 104, La Jolla, CA 92037",92037,2.0,2.0,1166.0,4914.0,42 days ago,
+296,House for rent,12000,"307 Rosemont St, La Jolla, CA 92037",92037,4.0,1.5,2080.0,9165.0,42 days ago,
+297,Apartment for rent,5500,"2500 Torrey Pines Rd UNIT 803, La Jolla, CA 92037",92037,2.0,2.0,1344.0,4440.0,6 days ago,
+298,Condo for rent,3275,"8636 Via Mallorca APT D, La Jolla, CA 92037",92037,2.0,2.0,978.0,3300.0,43 days ago,
+299,House for rent,24000,"6352 Castejon Dr, La Jolla, CA 92037",92037,6.0,6.5,4900.0,17570.0,30 days ago,
+300,Apartment for rent,9500,"745 Coast Blvd #3B, La Jolla, CA 92037",92037,2.0,2.5,2336.0,10326.0,2 days ago,
+301,House for rent,19995,"5582 Calle Miramar, La Jolla, CA 92037",92037,4.0,3.0,4046.0,11878.0,Video Walkthrough,
+302,House for rent,8200,"1362 Caminito Arriata, La Jolla, CA 92037",92037,4.0,3.0,2700.0,8694.0,5 days ago,
+303,House for rent,18000,"1110 W Muirlands Dr, La Jolla, CA 92037",92037,3.0,1.0,3340.0,12641.0,42 days ago,
+304,House for rent,90000,"6436 Camino De La Costa, La Jolla, CA 92037",92037,7.0,8.5,8337.0,75417.0,17 days ago,
+305,House for rent,11500,"369 Belvedere St, La Jolla, CA 92037",92037,5.0,4.0,3003.0,15614.0,3D Tour,
+306,House for rent,9500,"7103 Monte Vista Ave, La Jolla, CA 92037",92037,3.0,2.5,2000.0,9484.0,43 days ago,
+307,House for rent,19500,"6444 El Camino Del Teatro, La Jolla, CA 92037",92037,3.0,4.0,4000.0,17866.0,3D Tour,
+308,House for rent,14000,"5432 Candlelight Dr, La Jolla, CA 92037",92037,5.0,3.0,3050.0,13935.0,42 days ago,
+309,House for rent,16000,"8294 Prestwick Dr, La Jolla, CA 92037",92037,4.0,4.0,2714.0,13003.0,42 days ago,
+310,Condo for rent,8250,"205 Fern Glen, La Jolla, CA 92037",92037,2.0,2.5,1448.0,8366.0,Video Walkthrough,
+311,Apartment for rent,2595,"Mission Bay Villas, 1351 Pacific Beach Dr #7, San Diego, CA 92109",92109,1.0,1.0,600.0,,11 days ago,
+312,Apartment for rent,2995,"Drift Pb, 1727 Chalcedony St #24, San Diego, CA 92109",92109,1.0,1.0,672.0,,2 days ago,
+313,House for rent,6000,"5277 Cass St, San Diego, CA 92109",92109,2.0,2.0,1530.0,5999.0,42 days ago,
+314,House for rent,5500,"4812 Beryl Way, San Diego, CA 92109",92109,3.0,2.5,1646.0,5287.0,43 days ago,
+315,Apartment for rent,4895,"802-804 Island Ct #&-3231, San Diego, CA 92109",92109,4.0,4.5,1800.0,,12 days ago,
+316,House for rent,5990,"3535 Promontory St, San Diego, CA 92109",92109,3.0,2.0,1436.0,5000.0,42 days ago,
+317,House for rent,7450,"820 Diamond St UNIT 1, San Diego, CA 92109",92109,3.0,2.5,1300.0,5590.0,43 days ago,
+318,House for rent,5000,"1642 Reed Ave APT 3, San Diego, CA 92109",92109,3.0,2.5,1506.0,,42 days ago,
+319,House for rent,3950,"4020 Haines St, San Diego, CA 92109",92109,3.0,2.0,,3686.0,42 days ago,
+320,Townhouse for rent,3795,"2155 Felspar St, San Diego, CA 92109",92109,2.0,1.5,1041.0,3573.0,43 days ago,
+321,Townhouse for rent,8500,"833 Felspar St, San Diego, CA 92109",92109,3.0,3.0,1800.0,8147.0,43 days ago,
+322,Apartment for rent,2750,"715 Cohasset Ct #2, San Diego, CA 92109",92109,1.0,1.0,,,23 days ago,
+323,Apartment for rent,7950,"629 Chalcedony St, San Diego, CA 92109",92109,4.0,4.0,1615.0,8204.0,42 days ago,
+324,Apartment for rent,5400,"4730 Noyes St APT 318, San Diego, CA 92109",92109,2.0,2.0,906.0,3599.0,42 days ago,
+325,Apartment for rent,2795,"1820 Grand Ave APT C, San Diego, CA 92109",92109,2.0,1.0,,3056.0,25 days ago,
+326,Apartment for rent,4500,"928 Diamond St APT 2, San Diego, CA 92109",92109,2.0,2.0,1014.0,4500.0,16 hours ago,
+327,Apartment for rent,3600,"1401 Reed Ave UNIT 6, San Diego, CA 92109",92109,2.0,1.0,918.0,3997.0,1 day ago,
+328,Townhouse for rent,5000,"3959 Riviera Dr, San Diego, CA 92109",92109,3.0,3.0,1500.0,5000.0,1 day ago,
+329,Townhouse for rent,6400,"1035 Hornblend St #1035, San Diego, CA 92109",92109,3.0,3.0,1538.0,,1 day ago,
+330,House for rent,6899,"(undisclosed Address), San Diego, CA 92109",92109,3.0,2.0,1176.0,4946.0,2 days ago,
+331,House for rent,4000,"729 Santa Barbara Pl, San Diego, CA 92109",92109,2.0,1.0,1000.0,,1 day ago,
+332,Apartment for rent,2650,"3710 Ingraham St, San Diego, CA 92109",92109,1.0,1.0,500.0,4881.0,3 days ago,
+333,Apartment for rent,1995,"828 Island Ct, San Diego, CA 92109",92109,0.0,1.0,350.0,,2 days ago,
+334,Apartment for rent,2690,"(undisclosed Address), San Diego, CA 92109",92109,1.0,1.0,410.0,2090.0,5 days ago,
+335,Apartment for rent,2295,"1621 La Playa Ave #19, San Diego, CA 92109",92109,1.0,1.0,750.0,3200.0,1 day ago,
+336,Apartment for rent,2995,"(undisclosed Address), San Diego, CA 92109",92109,0.0,1.0,500.0,,18 days ago,
+337,Apartment for rent,1900,"4130 Haines St APT 5A, San Diego, CA 92109",92109,0.0,1.0,456.0,3503.0,2 days ago,
+338,Apartment for rent,4800,"(undisclosed Address), San Diego, CA 92109",92109,1.0,1.5,900.0,3749.0,18 days ago,
+339,Apartment for rent,3400,"1863 Oliver Ave, San Diego, CA 92109",92109,0.0,1.0,800.0,,10 days ago,
+340,Apartment for rent,3500,"1242 Opal St, San Diego, CA 92109",92109,1.0,1.0,600.0,7547.0,3 days ago,
+341,House for rent,6950,"821 Tangiers Ct, San Diego, CA 92109",92109,3.0,2.5,1485.0,7516.0,3 days ago,
+342,Townhouse for rent,5500,"1338 Thomas Ave APT B, San Diego, CA 92109",92109,3.0,2.5,1275.0,4600.0,10 days ago,
+343,Apartment for rent,3050,"2020 Diamond St UNIT 14, San Diego, CA 92109",92109,1.0,1.0,675.0,2694.0,9 days ago,
+344,Apartment for rent,3795,"4656 Bayard St, San Diego, CA 92109",92109,2.0,1.0,815.0,3740.0,5 days ago,
+345,Apartment for rent,2795,"839 Sapphire St UNIT 2, San Diego, CA 92109",92109,1.0,1.0,567.0,2962.0,10 days ago,
+346,Apartment for rent,2100,"Casa Linda, 7623 Eads Ave, La Jolla, CA 92037",92037,1.0,1.0,400.0,2425.0,43 days ago,
+347,Apartment for rent,7800,"6529 Neptune Pl, La Jolla, CA 92037",92037,2.0,2.0,1185.0,5214.0,3D Tour,
+348,House for rent,75000,"7447 Hillside Dr, La Jolla, CA 92037",92037,5.0,6.0,8175.0,42199.0,3D Tour,
+349,Apartment for rent,12000,"525 Marine St UNIT 12, La Jolla, CA 92037",92037,3.0,2.0,1336.0,7925.0,5 days ago,
+350,House for rent,4295,"933 Coast Blvd S, La Jolla, CA 92037",92037,2.0,1.0,,3850.0,4 days ago,
+351,Apartment for rent,3395,"Prospect, 315-329 Prospect St #10722853, La Jolla, CA 92037",92037,1.0,1.0,695.0,,7 days ago,
+352,Apartment for rent,4195,"Dra: Rg/Eam-3.22, 7321-27 Draper Ave, La Jolla, CA 92037",92037,2.0,2.5,1050.0,29000.0,7 days ago,
+353,Apartment for rent,4600,"6105 La Jolla Scenic Dr S APT B, La Jolla, CA 92037",92037,1.0,1.0,544.0,,18 days ago,
+354,House for rent,3800,"8472 Via Sonoma UNIT 25, La Jolla, CA 92037",92037,2.0,2.5,1332.0,3499.0,19 days ago,
+355,House for rent,4880,"(undisclosed Address), La Jolla, CA 92037",92037,2.0,1.0,1000.0,8042.0,5 days ago,
+356,House for rent,14000,"7880 Avenida Kirjah, La Jolla, CA 92037",92037,5.0,6.0,4110.0,9637.0,10 days ago,
+357,House for rent,4000,"5449 La Jolla Hermosa Ave, La Jolla, CA 92037",92037,1.0,1.0,500.0,11924.0,4 days ago,
+358,Townhouse for rent,6250,"5794 Caminito Empresa, La Jolla, CA 92037",92037,3.0,2.5,2046.0,6358.0,25 days ago,
+359,Apartment for rent,2700,"8656 Via Mallorca APT D, La Jolla, CA 92037",92037,1.0,1.0,691.0,2382.0,42 days ago,
+360,House for rent,8500,"8025 Paseo Del Ocaso, La Jolla, CA 92037",92037,3.0,3.0,1850.0,6999.0,3 days ago,
+361,Apartment for rent,3100,"8356 Via Sonoma UNIT B, La Jolla, CA 92037",92037,1.0,1.0,636.0,2434.0,37 days ago,
+362,House for rent,15000,"(undisclosed Address), La Jolla, CA 92037",92037,4.0,4.5,4428.0,,42 days ago,
+363,House for rent,10000,"1717 Crespo Dr, La Jolla, CA 92037",92037,4.0,3.0,2060.0,8745.0,31 days ago,
+364,House for rent,12900,"7005 Via Estrada, La Jolla, CA 92037",92037,6.0,5.0,4121.0,13215.0,19 days ago,
+365,Apartment for rent,2800,"9237 Regents Rd #K404, La Jolla, CA 92037",92037,1.0,1.0,763.0,2983.0,18 days ago,
+366,Townhouse for rent,5000,"8228 Caminito Modena, La Jolla, CA 92037",92037,3.0,3.0,1500.0,4600.0,12 days ago,
+367,Apartment for rent,4200,"2600 Torrey Pines Rd APT B17, La Jolla, CA 92037",92037,2.0,2.0,1102.0,3788.0,9 days ago,
+368,House for rent,8500,"1345 Torrey Pines Rd, La Jolla, CA 92037",92037,3.0,2.5,2929.0,10527.0,4 days ago,
+369,House for rent,11500,"7226 Fay Ave, La Jolla, CA 92037",92037,4.0,4.0,3200.0,12641.0,12 days ago,
+370,Apartment for rent,3695,"1020-1026 Coast Blvd S., 1024 Coast Blvd S., 1020-1026 S Coast Blvd #1026-10, La Jolla, CA 92037",92037,2.0,1.0,,,28 days ago,
+371,House for rent,7995,"(undisclosed Address), La Jolla, CA 92037",92037,3.0,2.0,1200.0,5622.0,9 days ago,
+372,House for rent,11000,"6529 Manana Pl, La Jolla, CA 92037",92037,4.0,3.0,2484.0,10368.0,Video Walkthrough,
+373,Townhouse for rent,4800,"8613 Via Mallorca UNIT C, La Jolla, CA 92037",92037,3.0,2.5,1992.0,5469.0,30 days ago,
+374,House for rent,5195,"4925 Milton St, San Diego, CA 92110",92110,3.0,2.0,1545.0,4868.0,2 days ago,
+375,Apartment for rent,4450,"(undisclosed Address), San Diego, CA 92110",92110,2.0,2.0,1100.0,3515.0,9 days ago,
+376,Apartment for rent,4775,"(undisclosed Address), San Diego, CA 92110",92110,2.0,2.0,850.0,2762.0,18 days ago,
+377,Condo for rent,3500,"3811 Basilone St UNIT 2, San Diego, CA 92110",92110,3.0,2.0,1260.0,3658.0,3 days ago,
+378,Apartment for rent,4000,"1835 Linwood St, San Diego, CA 92110",92110,2.0,1.0,835.0,3099.0,12 days ago,
+379,Apartment for rent,3400,"5765 Friars Rd UNIT 185, San Diego, CA 92110",92110,2.0,2.0,1128.0,3300.0,18 days ago,
+380,Apartment for rent,2500,"5474 Lauretta St, San Diego, CA 92110",92110,2.0,1.0,750.0,2591.0,3 days ago,
+381,Apartment for rent,2350,"2445B Juan St, San Diego, CA 92110",92110,1.0,1.0,415.0,,10 days ago,
+382,Apartment for rent,2800,"1205 Colusa St UNIT 11, San Diego, CA 92110",92110,2.0,1.0,750.0,2629.0,13 days ago,
+383,Apartment for rent,3100,"2556 Chicago St UNIT 7, San Diego, CA 92110",92110,1.0,1.0,572.0,2199.0,18 days ago,
+384,Apartment for rent,1975,"1825 Titus St, San Diego, CA 92110",92110,1.0,1.0,475.0,2205.0,8 days ago,
+385,House for rent,4000,"(undisclosed Address), San Diego, CA 92110",92110,3.0,2.0,1121.0,4054.0,11 days ago,
+386,Townhouse for rent,2650,"3930 Twiggs St #A, San Diego, CA 92110",92110,1.0,1.0,950.0,3152.0,8 days ago,
+387,Townhouse for rent,3950,"6082 Cirrus St, San Diego, CA 92110",92110,3.0,2.5,1601.0,4500.0,18 days ago,
+388,Apartment for rent,2188,"2188 San Diego Ave, San Diego, CA 92110",92110,0.0,1.0,300.0,1699.0,27 days ago,
+389,House for rent,4250,"2711 Deerpark Dr, San Diego, CA 92110",92110,3.0,2.0,2100.0,3981.0,10 days ago,
+390,Apartment for rent,5250,"5605 Friars Rd UNIT 285, San Diego, CA 92110",92110,3.0,2.0,1331.0,3770.0,39 days ago,
+391,Townhouse for rent,4995,"5971 Mildred St APT 5, San Diego, CA 92110",92110,3.0,3.5,1900.0,5105.0,42 days ago,
+392,Townhouse for rent,2995,"4150 Loma Riviera Ln, San Diego, CA 92110",92110,2.0,2.0,1440.0,3493.0,26 days ago,
+393,Apartment for rent,2645,"Point Loma Palms, 3152 Kemper St UNIT 7, San Diego, CA 92110",92110,1.0,1.0,650.0,,13 days ago,
+394,Apartment for rent,2650,"1912 San Diego Ave APT 10, San Diego, CA 92110",92110,2.0,2.0,950.0,3581.0,12 days ago,
+395,Apartment for rent,1900,"5446 Lauretta St APT C, San Diego, CA 92110",92110,2.0,1.0,850.0,2699.0,3 days ago,
+396,Apartment for rent,2699,"Loma Village, 3175 Cauby St, San Diego, CA 92110",92110,2.0,1.0,918.0,3133.0,39 days ago,
+397,Apartment for rent,3495,"Mission West Lofts, 3975 Old Town Ave UNIT 6, San Diego, CA 92110",92110,2.0,2.0,950.0,3489.0,42 days ago,
+398,Apartment for rent,2988,"5810 Riley St APT 6, San Diego, CA 92110",92110,2.0,1.0,958.0,3284.0,1 day ago,
+399,Apartment for rent,2600,"2383 Jefferson St, San Diego, CA 92110",92110,2.0,1.0,830.0,2683.0,7 days ago,
+400,Apartment for rent,4700,"4106 Venus St #B, San Diego, CA 92110",92110,3.0,2.0,1450.0,4745.0,6 days ago,
+401,Townhouse for rent,2895,"5655 Riley St, San Diego, CA 92110",92110,2.0,2.0,1030.0,2350.0,4 days ago,
+402,Apartment for rent,2395,"5840 Lauretta St, San Diego, CA 92110",92110,2.0,1.0,700.0,,7 days ago,
+403,Townhouse for rent,4500,"(undisclosed Address), San Diego, CA 92110",92110,3.0,2.0,1450.0,2100.0,6 days ago,
+404,Apartment for rent,2925,"3215 Midway Dr UNIT 701, San Diego, CA 92110",92110,2.0,2.0,951.0,3569.0,8 days ago,
+405,Apartment for rent,7500,"FRESNO, 1134-1148 Fresno St #1134, San Diego, CA 92110",92110,4.0,3.5,1837.0,,4 days ago,
+406,House for rent,3488,"5895 Friars Rd APT 5111, San Diego, CA 92110",92110,2.0,2.0,1176.0,3399.0,21 days ago,
+407,Apartment for rent,2550,"2537 Chicago St, 2537 Chicago St #7, San Diego, CA 92110",92110,2.0,1.0,725.0,2808.0,11 days ago,
+408,Townhouse for rent,3200,"1209 Hueneme St UNIT 1-13, San Diego, CA 92110",92110,2.0,2.0,1121.0,,8 days ago,
+409,House for rent,3150,"3131 Groton Way UNIT 4, San Diego, CA 92110",92110,2.0,2.0,1018.0,3543.0,3D Tour,
+410,Townhouse for rent,2945,"1111 Eureka St APT 3, San Diego, CA 92110",92110,2.0,2.5,1040.0,3293.0,9 days ago,
+411,House for rent,5500,"4957 Southcrest Ave, San Diego, CA 92110",92110,3.0,1.0,1329.0,4496.0,15 days ago,
+412,Apartment for rent,8125,"Riley St, 5845-5855 Riley St #5845, San Diego, CA 92110",92110,5.0,4.0,2700.0,,4 days ago,
+413,Apartment for rent,3600,"3098 Rue D Orleans #227, San Diego, CA 92110",92110,3.0,2.0,1372.0,3695.0,42 days ago,
+414,House for rent,3150,"2168 Cowley Way, San Diego, CA 92110",92110,3.0,1.0,1247.0,3758.0,28 days ago,
+415,Apartment for rent,2150,"5650-5652 Riley Street, 5650-5652 Riley St, San Diego, CA 92110",92110,1.0,1.0,500.0,,4 days ago,
+416,Apartment for rent,3900,"5915 Lauretta St APT 2, San Diego, CA 92110",92110,2.0,2.0,1250.0,3399.0,39 days ago,
+417,House for rent,6800,"4980 Northaven Ave, San Diego, CA 92110",92110,3.0,2.0,1454.0,4500.0,23 days ago,
+418,Apartment for rent,2099,"Lauretta St - 12 Units, 5747 Lauretta St APT 3, San Diego, CA 92110",92110,1.0,1.0,550.0,2195.0,42 days ago,
+419,Apartment for rent,2495,"5725 Linda Vista Rd APT 2, San Diego, CA 92110",92110,2.0,1.5,900.0,2527.0,2 days ago,
+420,House for rent,6995,"4666 Huxley St, San Diego, CA 92110",92110,3.0,2.0,1667.0,4631.0,Video Walkthrough,
+421,House for rent,3000,"4224 1/2 Jellett St, San Diego, CA 92110",92110,2.0,1.0,500.0,,24 days ago,
+422,House for rent,7290,"2676 Burgener Blvd, San Diego, CA 92110",92110,4.0,3.5,3000.0,7500.0,43 days ago,
+423,House for rent,4800,"4052 Loma Riviera Cir, San Diego, CA 92110",92110,4.0,2.5,1716.0,5147.0,30 days ago,
+424,House for rent,10000,"5162 Gardena Ave, San Diego, CA 92110",92110,5.0,3.5,2400.0,7163.0,42 days ago,
+425,Apartment for rent,1425,"Riley Street, 5752-58 Riley St #5754-1/2, San Diego, CA 92110",92110,0.0,1.0,300.0,,24 days ago,
+426,Apartment for rent,2600,"3666 Pringle St, San Diego, CA 92110",92110,2.0,1.0,840.0,2635.0,16 hours ago,
+427,Apartment for rent,7000,"2990 Mission Blvd #100, San Diego, CA 92109",92109,4.0,2.0,2400.0,6954.0,16 days ago,
+428,Apartment for rent,2495,"Casa Riviera Apartments, 3773 Haines St #5, San Diego, CA 92109",92109,1.0,1.0,,,17 days ago,
+429,Apartment for rent,3395,"1429 Hornblend St, San Diego, CA 92109",92109,2.0,1.0,,3499.0,5 days ago,
+430,Apartment for rent,1995,"2055 Diamond St #B, San Diego, CA 92109",92109,1.0,1.0,,,43 days ago,
+431,House for rent,2975,"4667 Ocean Blvd UNIT 211, San Diego, CA 92109",92109,1.0,1.0,742.0,3288.0,21 days ago,
+432,House for rent,4995,"1704 Grand Ave, San Diego, CA 92109",92109,3.0,2.0,1500.0,5497.0,18 days ago,
+433,Apartment for rent,2250,"3586 Mission Blvd, San Diego, CA 92109",92109,1.0,1.0,600.0,2385.0,21 days ago,
+434,Apartment for rent,2850,"1959 Grand Ave #B, San Diego, CA 92109",92109,2.0,1.0,800.0,3066.0,28 days ago,
+435,Apartment for rent,4595,"BA8:, 3434-36 Bayside Walk #3436-K, San Diego, CA 92109",92109,3.0,1.5,1250.0,,18 days ago,
+436,Apartment for rent,2990,"1464 Grand Ave, San Diego, CA 92109",92109,2.0,1.0,825.0,3499.0,22 days ago,
+437,Apartment for rent,3495,"Fe5: Rg/Eam-12.20, 1209 1215 Felspar St #1213-K-11., San Diego, CA 92109",92109,3.0,1.0,900.0,,10 days ago,
+438,House for rent,3400,"4029 Honeycutt St, San Diego, CA 92109",92109,0.0,1.0,1100.0,,21 days ago,
+439,House for rent,4500,"3748 Jewell St, San Diego, CA 92109",92109,2.0,1.0,900.0,3798.0,8 days ago,
+440,Condo for rent,3250,"1740 Roosevelt Ave APT C, San Diego, CA 92109",92109,2.0,2.0,744.0,3293.0,4 days ago,
+441,House for rent,3495,"719 Ostend Ct, San Diego, CA 92109",92109,2.0,1.0,951.0,3994.0,11 days ago,
+442,House for rent,3200,"3664 Mission Blvd, San Diego, CA 92109",92109,2.0,1.0,750.0,4746.0,4 days ago,
+443,House for rent,3000,"3506 Promontory St, San Diego, CA 92109",92109,1.0,1.0,700.0,7729.0,15 days ago,
+444,House for rent,8000,"5030 Pacifica Dr, San Diego, CA 92109",92109,3.0,2.0,1912.0,7927.0,14 days ago,
+445,Apartment for rent,2600,"812-826 Tourmaline Street - 8, 812 Tourmaline St, San Diego, CA 92109",92109,1.0,1.0,,,17 days ago,
+446,House for rent,2195,"1942 Fortuna Ave, San Diego, CA 92109",92109,1.0,1.0,,2375.0,10 days ago,
+447,Apartment for rent,2500,"838 Emerald St, San Diego, CA 92109",92109,1.0,1.0,550.0,2854.0,30 days ago,
+448,Apartment for rent,2795,"Sail Bay Apartments, 1327-1335 Pacific Beach Dr #1327-01, San Diego, CA 92109",92109,2.0,1.0,,,1 day ago,
+449,Apartment for rent,3150,"1518 Oliver Ave - C, 1518 Oliver Ave, San Diego, CA 92109",92109,2.0,1.0,750.0,,9 days ago,
+450,House for rent,3850,"2605 Magnolia Ave, San Diego, CA 92109",92109,2.0,2.0,800.0,3200.0,37 days ago,
+451,Apartment for rent,2995,"2 bed, 671 sqft, $2,995, 2720 Figueroa Blvd, San Diego, CA 92109",92109,2.0,1.0,671.0,2904.0,6 hours ago,
+452,Apartment for rent,3895,"4316-18 Bayard St. - 2993L, 4316-18 Bayard St #4318-A, San Diego, CA 92109",92109,2.0,2.0,1100.0,,30 days ago,
+453,Apartment for rent,3390,"2074 Felspar St, San Diego, CA 92109",92109,2.0,1.0,700.0,,42 days ago,
+454,House for rent,5200,"2050 Diamond St, San Diego, CA 92109",92109,3.0,2.0,1300.0,5551.0,1 day ago,
+455,Apartment for rent,3995,"4887 Bella Pacific Row UNIT 241, San Diego, CA 92109",92109,2.0,2.0,1110.0,3517.0,23 days ago,
+456,Apartment for rent,4495,"1118 Thomas Ave, San Diego, CA 92109",92109,2.0,2.0,1000.0,4287.0,Video Walkthrough,
+457,Apartment for rent,3095,"1 bed, $3,095, 1650 Emerald St #24, San Diego, CA 92109",92109,1.0,1.0,,,8 days ago,
+458,Apartment for rent,3795,"4007 Everts St UNIT 2D, San Diego, CA 92109",92109,2.0,2.0,989.0,4496.0,39 days ago,
+459,Apartment for rent,4500,"3991 Crown Point Dr UNIT 211, San Diego, CA 92109",92109,2.0,2.0,973.0,3521.0,6 days ago,
+460,Apartment for rent,3645,"Shasta, 3880 Shasta St #A08, San Diego, CA 92109",92109,2.0,2.0,,,21 days ago,
+461,Apartment for rent,3300,"731 Asbury Ct, San Diego, CA 92109",92109,1.0,1.0,500.0,2352.0,43 days ago,
+462,Apartment for rent,5500,"3726 Riviera Dr APT D, San Diego, CA 92109",92109,2.0,2.5,1261.0,4126.0,42 days ago,
+463,For Rent,3650,"1009 Hornblend St, San Diego, CA",92109,2,0,0,,23 days ago,"[{'price': '$3,650+', 'beds': '2'}, {'price': '$4,950+', 'beds': '3'}]"
+464,For Rent,4950,"1009 Hornblend St, San Diego, CA",92109,3,0,0,,23 days ago,"[{'price': '$3,650+', 'beds': '2'}, {'price': '$4,950+', 'beds': '3'}]"
+465,For Rent,2095,"1725 1/2 Diamond St, San Diego, CA",92109,1,0,0,,5 days ago,"[{'price': '$2,095+', 'beds': '1'}, {'price': '$2,950+', 'beds': '2'}]"
+466,For Rent,2950,"1725 1/2 Diamond St, San Diego, CA",92109,2,0,0,,5 days ago,"[{'price': '$2,095+', 'beds': '1'}, {'price': '$2,950+', 'beds': '2'}]"
+467,For Rent,3500,"8453 Via Mallorca, La Jolla, CA",92037,2,0,0,,13 days ago,"[{'price': '$3,500+', 'beds': '2'}]"
+468,For Rent,7200,"909 Coast Blvd, La Jolla, CA",92037,2,0,0,,18 days ago,"[{'price': '$7,200+', 'beds': '2'}]"
+469,La Jolla Canyon,2475,"9515 Genesee Ave, San Diego, CA",92121,1,0,0,,,"[{'price': '$2,475+', 'beds': '1'}, {'price': '$3,160+', 'beds': '2'}]"
+470,La Jolla Canyon,3160,"9515 Genesee Ave, San Diego, CA",92121,2,0,0,,,"[{'price': '$2,475+', 'beds': '1'}, {'price': '$3,160+', 'beds': '2'}]"
+471,Elan Pacific Lofts,2225,"4467 Dawes St, San Diego, CA",92109,2,0,0,,,"[{'price': '$2,225+', 'beds': '2'}]"
+472,The Casas,2528,"10802 Camino Ruiz, San Diego, CA",92126,1,0,0,,,"[{'price': '$2,528+', 'beds': '1'}, {'price': '$2,844+', 'beds': '2'}]"
+473,The Casas,2844,"10802 Camino Ruiz, San Diego, CA",92126,2,0,0,,,"[{'price': '$2,528+', 'beds': '1'}, {'price': '$2,844+', 'beds': '2'}]"
+474,Sofi Westview,3300,"11760 Westview Pkwy, San Diego, CA",92126,2,0,0,,,"[{'price': '$3,300+', 'beds': '2'}, {'price': '$3,575+', 'beds': '3'}]"
+475,Sofi Westview,3575,"11760 Westview Pkwy, San Diego, CA",92126,3,0,0,,,"[{'price': '$3,300+', 'beds': '2'}, {'price': '$3,575+', 'beds': '3'}]"
+476,Casa Mira View,2650,"9800 Mira Lee Way, San Diego, CA",92126,1,0,0,,,"[{'price': '$2,650+', 'beds': '1'}, {'price': '$3,275+', 'beds': '2'}, {'price': '$4,250+', 'beds': '3'}]"
+477,Casa Mira View,3275,"9800 Mira Lee Way, San Diego, CA",92126,2,0,0,,,"[{'price': '$2,650+', 'beds': '1'}, {'price': '$3,275+', 'beds': '2'}, {'price': '$4,250+', 'beds': '3'}]"
+478,Casa Mira View,4250,"9800 Mira Lee Way, San Diego, CA",92126,3,0,0,,,"[{'price': '$2,650+', 'beds': '1'}, {'price': '$3,275+', 'beds': '2'}, {'price': '$4,250+', 'beds': '3'}]"
+479,IMT Sorrento Valley,2345,"11102 Caminito Alvarez, San Diego, CA",92126,0,0,0,,Updated yesterday,"[{'price': '$2,345+', 'beds': '0'}, {'price': '$2,575+', 'beds': '1'}, {'price': '$2,750+', 'beds': '2'}]"
+480,IMT Sorrento Valley,2575,"11102 Caminito Alvarez, San Diego, CA",92126,1,0,0,,Updated yesterday,"[{'price': '$2,345+', 'beds': '0'}, {'price': '$2,575+', 'beds': '1'}, {'price': '$2,750+', 'beds': '2'}]"
+481,IMT Sorrento Valley,2750,"11102 Caminito Alvarez, San Diego, CA",92126,2,0,0,,Updated yesterday,"[{'price': '$2,345+', 'beds': '0'}, {'price': '$2,575+', 'beds': '1'}, {'price': '$2,750+', 'beds': '2'}]"
+482,Sofi Highlands,3036,"11600 Compass Point Dr N, San Diego, CA",92126,2,0,0,,Updated yesterday,"[{'price': '$3,036+', 'beds': '2'}, {'price': '$3,493+', 'beds': '3'}]"
+483,Sofi Highlands,3493,"11600 Compass Point Dr N, San Diego, CA",92126,3,0,0,,Updated yesterday,"[{'price': '$3,036+', 'beds': '2'}, {'price': '$3,493+', 'beds': '3'}]"
+484,Mesa Village Apartments,2370,"11355 Zapata Ave, San Diego, CA",92126,1,0,0,,Updated yesterday,"[{'price': '$2,370+', 'beds': '1'}, {'price': '$2,545+', 'beds': '2'}]"
+485,Mesa Village Apartments,2545,"11355 Zapata Ave, San Diego, CA",92126,2,0,0,,Updated yesterday,"[{'price': '$2,370+', 'beds': '1'}, {'price': '$2,545+', 'beds': '2'}]"
+486,For Rent,2800,"8456 New Salem St, San Diego, CA",92126,2,0,0,,2 days ago,"[{'price': '$2,800+', 'beds': '2'}]"
+487,For Rent,2950,"10913 Draco Rd, San Diego, CA",92126,2,0,0,,2 days ago,"[{'price': '$2,950+', 'beds': '2'}]"
+488,For Rent,2100,"8489 Westmore Rd, San Diego, CA",92126,1,0,0,,24 days ago,"[{'price': '$2,100+', 'beds': '1'}, {'price': '$2,400+', 'beds': '2'}]"
+489,For Rent,2400,"8489 Westmore Rd, San Diego, CA",92126,2,0,0,,24 days ago,"[{'price': '$2,100+', 'beds': '1'}, {'price': '$2,400+', 'beds': '2'}]"
+490,For Rent,4100,"11076 Eka Way, San Diego, CA",92126,3,0,0,,Updated today,"[{'price': '$4,100+', 'beds': '3'}, {'price': '$6,000+', 'beds': '4'}]"
+491,For Rent,6000,"11076 Eka Way, San Diego, CA",92126,4,0,0,,Updated today,"[{'price': '$4,100+', 'beds': '3'}, {'price': '$6,000+', 'beds': '4'}]"
+492,For Rent,4250,"11033 Ice Skate Pl, San Diego, CA",92126,3,0,0,,1 day ago,"[{'price': '$4,250+', 'beds': '3'}, {'price': '$3,850+', 'beds': '4'}]"
+493,For Rent,3850,"11033 Ice Skate Pl, San Diego, CA",92126,4,0,0,,1 day ago,"[{'price': '$4,250+', 'beds': '3'}, {'price': '$3,850+', 'beds': '4'}]"
+494,Regents Court,2615,"8465 Regents Rd, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,615+', 'beds': '1'}, {'price': '$4,191+', 'beds': '2'}]"
+495,Regents Court,4191,"8465 Regents Rd, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,615+', 'beds': '1'}, {'price': '$4,191+', 'beds': '2'}]"
+496,Towers at Costa Verde,2925,"8775 Costa Verde Blvd, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,925+', 'beds': '1'}, {'price': '$4,000+', 'beds': '2'}, {'price': '$4,975+', 'beds': '3'}]"
+497,Towers at Costa Verde,4000,"8775 Costa Verde Blvd, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,925+', 'beds': '1'}, {'price': '$4,000+', 'beds': '2'}, {'price': '$4,975+', 'beds': '3'}]"
+498,Towers at Costa Verde,4975,"8775 Costa Verde Blvd, San Diego, CA",92122,3,0,0,,,"[{'price': '$2,925+', 'beds': '1'}, {'price': '$4,000+', 'beds': '2'}, {'price': '$4,975+', 'beds': '3'}]"
+499,La Jolla Crossroads,2475,"9085 Judicial Dr, San Diego, CA",92122,0,0,0,,Updated yesterday,"[{'price': '$2,475+', 'beds': '0'}, {'price': '$2,825+', 'beds': '1'}, {'price': '$3,675+', 'beds': '2'}, {'price': '$4,950+', 'beds': '3'}]"
+500,La Jolla Crossroads,2825,"9085 Judicial Dr, San Diego, CA",92122,1,0,0,,Updated yesterday,"[{'price': '$2,475+', 'beds': '0'}, {'price': '$2,825+', 'beds': '1'}, {'price': '$3,675+', 'beds': '2'}, {'price': '$4,950+', 'beds': '3'}]"
+501,La Jolla Crossroads,3675,"9085 Judicial Dr, San Diego, CA",92122,2,0,0,,Updated yesterday,"[{'price': '$2,475+', 'beds': '0'}, {'price': '$2,825+', 'beds': '1'}, {'price': '$3,675+', 'beds': '2'}, {'price': '$4,950+', 'beds': '3'}]"
+502,La Jolla Crossroads,4950,"9085 Judicial Dr, San Diego, CA",92122,3,0,0,,Updated yesterday,"[{'price': '$2,475+', 'beds': '0'}, {'price': '$2,825+', 'beds': '1'}, {'price': '$3,675+', 'beds': '2'}, {'price': '$4,950+', 'beds': '3'}]"
+503,Axiom La Jolla,2590,"3950 Mahaila Ave, San Diego, CA",92122,1,0,0,,Updated yesterday,"[{'price': '$2,590+', 'beds': '1'}, {'price': '$3,240+', 'beds': '2'}]"
+504,Axiom La Jolla,3240,"3950 Mahaila Ave, San Diego, CA",92122,2,0,0,,Updated yesterday,"[{'price': '$2,590+', 'beds': '1'}, {'price': '$3,240+', 'beds': '2'}]"
+505,Mirada at La Jolla Colony Apartments,2490,"7568 Charmant Dr, San Diego, CA",92122,1,0,0,,3D Tour,"[{'price': '$2,490+', 'beds': '1'}, {'price': '$3,011+', 'beds': '2'}]"
+506,Mirada at La Jolla Colony Apartments,3011,"7568 Charmant Dr, San Diego, CA",92122,2,0,0,,3D Tour,"[{'price': '$2,490+', 'beds': '1'}, {'price': '$3,011+', 'beds': '2'}]"
+507,360 Luxury Apartments,2650,"9065 Sydney Ct, San Diego, CA",92122,0,0,0,,,"[{'price': '$2,650+', 'beds': '0'}, {'price': '$2,910+', 'beds': '1'}, {'price': '$3,620+', 'beds': '2'}]"
+508,360 Luxury Apartments,2910,"9065 Sydney Ct, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,650+', 'beds': '0'}, {'price': '$2,910+', 'beds': '1'}, {'price': '$3,620+', 'beds': '2'}]"
+509,360 Luxury Apartments,3620,"9065 Sydney Ct, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,650+', 'beds': '0'}, {'price': '$2,910+', 'beds': '1'}, {'price': '$3,620+', 'beds': '2'}]"
+510,Valentia,3094,"5305 Toscana Way, San Diego, CA",92122,1,0,0,,,"[{'price': '$3,094+', 'beds': '1'}, {'price': '$3,496+', 'beds': '2'}, {'price': '$4,607+', 'beds': '3'}]"
+511,Valentia,3496,"5305 Toscana Way, San Diego, CA",92122,2,0,0,,,"[{'price': '$3,094+', 'beds': '1'}, {'price': '$3,496+', 'beds': '2'}, {'price': '$4,607+', 'beds': '3'}]"
+512,Valentia,4607,"5305 Toscana Way, San Diego, CA",92122,3,0,0,,,"[{'price': '$3,094+', 'beds': '1'}, {'price': '$3,496+', 'beds': '2'}, {'price': '$4,607+', 'beds': '3'}]"
+513,The Villas of Renaissance,2395,"5280 Fiore Ter, San Diego, CA",92122,0,0,0,,3D Tour,"[{'price': '$2,395+', 'beds': '0'}, {'price': '$2,795+', 'beds': '1'}, {'price': '$3,340+', 'beds': '2'}, {'price': '$4,095+', 'beds': '3'}]"
+514,The Villas of Renaissance,2795,"5280 Fiore Ter, San Diego, CA",92122,1,0,0,,3D Tour,"[{'price': '$2,395+', 'beds': '0'}, {'price': '$2,795+', 'beds': '1'}, {'price': '$3,340+', 'beds': '2'}, {'price': '$4,095+', 'beds': '3'}]"
+515,The Villas of Renaissance,3340,"5280 Fiore Ter, San Diego, CA",92122,2,0,0,,3D Tour,"[{'price': '$2,395+', 'beds': '0'}, {'price': '$2,795+', 'beds': '1'}, {'price': '$3,340+', 'beds': '2'}, {'price': '$4,095+', 'beds': '3'}]"
+516,The Villas of Renaissance,4095,"5280 Fiore Ter, San Diego, CA",92122,3,0,0,,3D Tour,"[{'price': '$2,395+', 'beds': '0'}, {'price': '$2,795+', 'beds': '1'}, {'price': '$3,340+', 'beds': '2'}, {'price': '$4,095+', 'beds': '3'}]"
+517,La Jolla Palms Apartment Homes,3115,"3535 Lebon Dr, San Diego, CA",92122,1,0,0,,3D Tour,"[{'price': '$3,115+', 'beds': '1'}, {'price': '$3,770+', 'beds': '2'}]"
+518,La Jolla Palms Apartment Homes,3770,"3535 Lebon Dr, San Diego, CA",92122,2,0,0,,3D Tour,"[{'price': '$3,115+', 'beds': '1'}, {'price': '$3,770+', 'beds': '2'}]"
+519,Avia La Jolla Senior Community 55 Years +,3198,"6345 Gullstrand St, San Diego, CA",92122,2,0,0,,,"[{'price': '$3,198+', 'beds': '2'}]"
+520,La Jolla Blue Apartments,2600,"7039 Charmant Dr, San Diego, CA",92122,1,0,0,,Updated yesterday,"[{'price': '$2,600+', 'beds': '1'}]"
+521,Avalon La Jolla Colony,2675,"7205 Charmant Dr, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,675+', 'beds': '1'}, {'price': '$3,325+', 'beds': '2'}]"
+522,Avalon La Jolla Colony,3325,"7205 Charmant Dr, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,675+', 'beds': '1'}, {'price': '$3,325+', 'beds': '2'}]"
+523,Westwood Apartment Homes,2630,"7936 Avenida Navidad, San Diego, CA",92122,1,0,0,,3D Tour,"[{'price': '$2,630+', 'beds': '1'}, {'price': '$3,395+', 'beds': '2'}]"
+524,Westwood Apartment Homes,3395,"7936 Avenida Navidad, San Diego, CA",92122,2,0,0,,3D Tour,"[{'price': '$2,630+', 'beds': '1'}, {'price': '$3,395+', 'beds': '2'}]"
+525,La Scala,2595,"3845 Nobel Dr, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,595+', 'beds': '1'}, {'price': '$3,520+', 'beds': '2'}]"
+526,La Scala,3520,"3845 Nobel Dr, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,595+', 'beds': '1'}, {'price': '$3,520+', 'beds': '2'}]"
+527,La Jolla International Gardens,2545,"3417 Lebon Dr, San Diego, CA",92122,1,0,0,,3D Tour,"[{'price': '$2,545+', 'beds': '1'}, {'price': '$3,415+', 'beds': '2'}]"
+528,La Jolla International Gardens,3415,"3417 Lebon Dr, San Diego, CA",92122,2,0,0,,3D Tour,"[{'price': '$2,545+', 'beds': '1'}, {'price': '$3,415+', 'beds': '2'}]"
+529,Costa Verde Village,2760,"8720 Costa Verde Blvd, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,760+', 'beds': '1'}, {'price': '$3,735+', 'beds': '2'}]"
+530,Costa Verde Village,3735,"8720 Costa Verde Blvd, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,760+', 'beds': '1'}, {'price': '$3,735+', 'beds': '2'}]"
+531,LUX by Garden,3365,"4200 Brooke Ct, San Diego, CA",92122,1,0,0,,,"[{'price': '$3,365+', 'beds': '1'}, {'price': '$4,850+', 'beds': '2'}, {'price': '$6,415+', 'beds': '3'}]"
+532,LUX by Garden,4850,"4200 Brooke Ct, San Diego, CA",92122,2,0,0,,,"[{'price': '$3,365+', 'beds': '1'}, {'price': '$4,850+', 'beds': '2'}, {'price': '$6,415+', 'beds': '3'}]"
+533,LUX by Garden,6415,"4200 Brooke Ct, San Diego, CA",92122,3,0,0,,,"[{'price': '$3,365+', 'beds': '1'}, {'price': '$4,850+', 'beds': '2'}, {'price': '$6,415+', 'beds': '3'}]"
+534,Lajolla Del Ray,2588,"4655 Governor Dr, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,588+', 'beds': '1'}, {'price': '$3,177+', 'beds': '2'}]"
+535,Lajolla Del Ray,3177,"4655 Governor Dr, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,588+', 'beds': '1'}, {'price': '$3,177+', 'beds': '2'}]"
+536,La Regencia,2775,"7681 Palmilla Dr, San Diego, CA",92122,1,0,0,,,"[{'price': '$2,775+', 'beds': '1'}, {'price': '$3,825+', 'beds': '2'}, {'price': '$4,900+', 'beds': '3'}]"
+537,La Regencia,3825,"7681 Palmilla Dr, San Diego, CA",92122,2,0,0,,,"[{'price': '$2,775+', 'beds': '1'}, {'price': '$3,825+', 'beds': '2'}, {'price': '$4,900+', 'beds': '3'}]"
+538,La Regencia,4900,"7681 Palmilla Dr, San Diego, CA",92122,3,0,0,,,"[{'price': '$2,775+', 'beds': '1'}, {'price': '$3,825+', 'beds': '2'}, {'price': '$4,900+', 'beds': '3'}]"
+539,Town Park Villas,3018,"4633 Governor Dr, San Diego, CA",92122,2,0,0,,,"[{'price': '$3,018+', 'beds': '2'}]"
+540,Palisade,3902,"8800 Lombard Pl, San Diego, CA",92122,0,0,0,,,"[{'price': '$3,902+', 'beds': '0'}, {'price': '$4,248+', 'beds': '1'}, {'price': '$4,915+', 'beds': '2'}, {'price': '$7,798+', 'beds': '3'}]"
+541,Palisade,4248,"8800 Lombard Pl, San Diego, CA",92122,1,0,0,,,"[{'price': '$3,902+', 'beds': '0'}, {'price': '$4,248+', 'beds': '1'}, {'price': '$4,915+', 'beds': '2'}, {'price': '$7,798+', 'beds': '3'}]"
+542,Palisade,4915,"8800 Lombard Pl, San Diego, CA",92122,2,0,0,,,"[{'price': '$3,902+', 'beds': '0'}, {'price': '$4,248+', 'beds': '1'}, {'price': '$4,915+', 'beds': '2'}, {'price': '$7,798+', 'beds': '3'}]"
+543,Palisade,7798,"8800 Lombard Pl, San Diego, CA",92122,3,0,0,,,"[{'price': '$3,902+', 'beds': '0'}, {'price': '$4,248+', 'beds': '1'}, {'price': '$4,915+', 'beds': '2'}, {'price': '$7,798+', 'beds': '3'}]"
+544,For Rent,4395,"8230 Avenida Navidad, San Diego, CA",92122,2,0,0,,16 days ago,"[{'price': '$4,395+', 'beds': '2'}]"
+545,For Rent,2895,"8889 Caminito Plaza Centro, San Diego, CA",92122,1,0,0,,8 days ago,"[{'price': '$2,895+', 'beds': '1'}, {'price': '$3,175+', 'beds': '2'}]"
+546,For Rent,3175,"8889 Caminito Plaza Centro, San Diego, CA",92122,2,0,0,,8 days ago,"[{'price': '$2,895+', 'beds': '1'}, {'price': '$3,175+', 'beds': '2'}]"
+547,For Rent,5595,"5406 Renaissance Ave, San Diego, CA",92122,3,0,0,,10 days ago,"[{'price': '$5,595+', 'beds': '3'}]"
+548,For Rent,2695,"7786 Camino Glorita, San Diego, CA",92122,2,0,0,,5 days ago,"[{'price': '$2,695+', 'beds': '2'}]"
+549,For Rent,3400,"3935 Nobel Dr, San Diego, CA",92122,2,0,0,,24 days ago,"[{'price': '$3,400+', 'beds': '2'}]"
+550,For Rent,2998,"3550 Lebon Dr, San Diego, CA",92122,1,0,0,,30 days ago,"[{'price': '$2,998+', 'beds': '1'}, {'price': '$2,995+', 'beds': '2'}]"
+551,For Rent,2995,"3550 Lebon Dr, San Diego, CA",92122,2,0,0,,30 days ago,"[{'price': '$2,998+', 'beds': '1'}, {'price': '$2,995+', 'beds': '2'}]"
+552,For Rent,3100,"7405 Charmant Dr, San Diego, CA",92122,2,0,0,,43 days ago,"[{'price': '$3,100+', 'beds': '2'}]"
+553,For Rent,3700,"6064 Erlanger St, San Diego, CA",92122,2,0,0,,40 days ago,"[{'price': '$3,700+', 'beds': '2'}, {'price': '$4,390+', 'beds': '3'}]"
+554,For Rent,4390,"6064 Erlanger St, San Diego, CA",92122,3,0,0,,40 days ago,"[{'price': '$3,700+', 'beds': '2'}, {'price': '$4,390+', 'beds': '3'}]"
+555,For Rent,3200,"7274 Shoreline Dr, San Diego, CA",92122,2,0,0,,42 days ago,"[{'price': '$3,200+', 'beds': '2'}]"
+556,For Rent,4500,"5490 La Jolla Blvd, La Jolla, CA",92037,0,0,0,,5 days ago,"[{'price': '$4,500+', 'beds': '0'}]"
+557,The Pacific at Mission Bay,2495,"2636 Grand Ave, San Diego, CA",92109,1,0,0,,,"[{'price': '$2,495+', 'beds': '1'}, {'price': '$3,495+', 'beds': '2'}]"
+558,The Pacific at Mission Bay,3495,"2636 Grand Ave, San Diego, CA",92109,2,0,0,,,"[{'price': '$2,495+', 'beds': '1'}, {'price': '$3,495+', 'beds': '2'}]"
+559,AVA Pacific Beach,2660,"3883 Ingraham St, San Diego, CA",92109,1,0,0,,Updated today,"[{'price': '$2,660+', 'beds': '1'}, {'price': '$3,261+', 'beds': '2'}]"
+560,AVA Pacific Beach,3261,"3883 Ingraham St, San Diego, CA",92109,2,0,0,,Updated today,"[{'price': '$2,660+', 'beds': '1'}, {'price': '$3,261+', 'beds': '2'}]"
+561,Casas by the Sea,4295,"5060 La Jolla Blvd, San Diego, CA",92109,2,0,0,,3D Tour,"[{'price': '$4,295+', 'beds': '2'}]"
+562,Avaz Pacific Beach,2395,"2710 Grand Ave, San Diego, CA",92109,1,0,0,,,"[{'price': '$2,395+', 'beds': '1'}]"
+563,Mara Pacific Beach,3250,"4275 Mission Bay Dr, San Diego, CA",92109,1,0,0,,,"[{'price': '$3,250+', 'beds': '1'}, {'price': '$4,030+', 'beds': '2'}]"
+564,Mara Pacific Beach,4030,"4275 Mission Bay Dr, San Diego, CA",92109,2,0,0,,,"[{'price': '$3,250+', 'beds': '1'}, {'price': '$4,030+', 'beds': '2'}]"
+565,For Rent,4500,"1154 Pacific Beach Dr, San Diego, CA",92109,2,0,0,,2 days ago,"[{'price': '$4,500+', 'beds': '2'}, {'price': '$5,500+', 'beds': '3'}]"
+566,For Rent,5500,"1154 Pacific Beach Dr, San Diego, CA",92109,3,0,0,,2 days ago,"[{'price': '$4,500+', 'beds': '2'}, {'price': '$5,500+', 'beds': '3'}]"
+567,For Rent,1895,"732 Ventura Pl, San Diego, CA",92109,0,0,0,,11 days ago,"[{'price': '$1,895+', 'beds': '0'}, {'price': '$1,995+', 'beds': '1'}]"
+568,For Rent,1995,"732 Ventura Pl, San Diego, CA",92109,1,0,0,,11 days ago,"[{'price': '$1,895+', 'beds': '0'}, {'price': '$1,995+', 'beds': '1'}]"
+569,For Rent,1850,"1410.5 Grand Ave, San Diego, CA",92109,0,0,0,,10 days ago,"[{'price': '$1,850+', 'beds': '0'}, {'price': '$2,250+', 'beds': '1'}]"
+570,For Rent,2250,"1410.5 Grand Ave, San Diego, CA",92109,1,0,0,,10 days ago,"[{'price': '$1,850+', 'beds': '0'}, {'price': '$2,250+', 'beds': '1'}]"
+571,Hornblend,1795,"1237-1239 Hornblend St, San Diego, CA",92109,0,0,0,,,"[{'price': '$1,795+', 'beds': '0'}, {'price': '$3,850+', 'beds': '2'}]"
+572,Hornblend,3850,"1237-1239 Hornblend St, San Diego, CA",92109,2,0,0,,,"[{'price': '$1,795+', 'beds': '0'}, {'price': '$3,850+', 'beds': '2'}]"
+573,Catalina Pacific Apartments,2395,"2660-2674 Hornblend St, San Diego, CA",92109,1,0,0,,3D Tour,"[{'price': '$2,395+', 'beds': '1'}, {'price': '$2,995+', 'beds': '2'}]"
+574,Catalina Pacific Apartments,2995,"2660-2674 Hornblend St, San Diego, CA",92109,2,0,0,,3D Tour,"[{'price': '$2,395+', 'beds': '1'}, {'price': '$2,995+', 'beds': '2'}]"
+575,For Rent,2275,"1855 Diamond St, San Diego, CA",92109,1,0,0,,3D Tour,"[{'price': '$2,275+', 'beds': '1'}]"
+576,For Rent,2195,"633 Missouri St, San Diego, CA",92109,0,0,0,,18 days ago,"[{'price': '$2,195+', 'beds': '0'}, {'price': '$3,200+', 'beds': '2'}]"
+577,For Rent,3200,"633 Missouri St, San Diego, CA",92109,2,0,0,,18 days ago,"[{'price': '$2,195+', 'beds': '0'}, {'price': '$3,200+', 'beds': '2'}]"
+578,For Rent,2495,"3520 Lebon Dr, San Diego, CA",92122,1,0,0,,42 days ago,"[{'price': '$2,495+', 'beds': '1'}]"
+579,For Rent,3500,"7812 Camino Raposa, San Diego, CA",92122,2,0,0,,43 days ago,"[{'price': '$3,500+', 'beds': '2'}, {'price': '$3,095+', 'beds': '3'}]"
+580,For Rent,3095,"7812 Camino Raposa, San Diego, CA",92122,3,0,0,,43 days ago,"[{'price': '$3,500+', 'beds': '2'}, {'price': '$3,095+', 'beds': '3'}]"
+581,For Rent,2495,"3955 Nobel Dr, San Diego, CA",92122,1,0,0,,30 days ago,"[{'price': '$2,495+', 'beds': '1'}, {'price': '$3,849+', 'beds': '2'}]"
+582,For Rent,3849,"3955 Nobel Dr, San Diego, CA",92122,2,0,0,,30 days ago,"[{'price': '$2,495+', 'beds': '1'}, {'price': '$3,849+', 'beds': '2'}]"
+583,For Rent,2950,"8338 Regents Rd, San Diego, CA",92122,2,0,0,,2 days ago,"[{'price': '$2,950+', 'beds': '2'}]"
+584,For Rent,2700,"3937 Nobel Dr, San Diego, CA",92122,1,0,0,,5 days ago,"[{'price': '$2,700+', 'beds': '1'}, {'price': '$3,949+', 'beds': '3'}]"
+585,For Rent,3949,"3937 Nobel Dr, San Diego, CA",92122,3,0,0,,5 days ago,"[{'price': '$2,700+', 'beds': '1'}, {'price': '$3,949+', 'beds': '3'}]"
+586,For Rent,2350,"8468 Capricorn Way, San Diego, CA",92126,1,0,0,,39 days ago,"[{'price': '$2,350+', 'beds': '1'}]"
+587,Legacy Apartment Homes,2257,"9320 Hillery Dr, San Diego, CA",92126,1,0,0,,,"[{'price': '$2,257+', 'beds': '1'}, {'price': '$2,935+', 'beds': '2'}, {'price': '$3,547+', 'beds': '3'}]"
+588,Legacy Apartment Homes,2935,"9320 Hillery Dr, San Diego, CA",92126,2,0,0,,,"[{'price': '$2,257+', 'beds': '1'}, {'price': '$2,935+', 'beds': '2'}, {'price': '$3,547+', 'beds': '3'}]"
+589,Legacy Apartment Homes,3547,"9320 Hillery Dr, San Diego, CA",92126,3,0,0,,,"[{'price': '$2,257+', 'beds': '1'}, {'price': '$2,935+', 'beds': '2'}, {'price': '$3,547+', 'beds': '3'}]"
+590,Canyon Ridge,2429,"3187 Cowley Way, San Diego, CA",92117,1,0,0,,Updated yesterday,"[{'price': '$2,429+', 'beds': '1'}, {'price': '$3,020+', 'beds': '2'}]"
+591,Canyon Ridge,3020,"3187 Cowley Way, San Diego, CA",92117,2,0,0,,Updated yesterday,"[{'price': '$2,429+', 'beds': '1'}, {'price': '$3,020+', 'beds': '2'}]"
+592,Pacific Bay Club,1955,"4070 Huerfano Ave, San Diego, CA",92117,0,0,0,,,"[{'price': '$1,955+', 'beds': '0'}, {'price': '$2,385+', 'beds': '1'}, {'price': '$2,920+', 'beds': '2'}]"
+593,Pacific Bay Club,2385,"4070 Huerfano Ave, San Diego, CA",92117,1,0,0,,,"[{'price': '$1,955+', 'beds': '0'}, {'price': '$2,385+', 'beds': '1'}, {'price': '$2,920+', 'beds': '2'}]"
+594,Pacific Bay Club,2920,"4070 Huerfano Ave, San Diego, CA",92117,2,0,0,,,"[{'price': '$1,955+', 'beds': '0'}, {'price': '$2,385+', 'beds': '1'}, {'price': '$2,920+', 'beds': '2'}]"
+595,For Rent,3100,"4064 Huerfano Ave, San Diego, CA",92117,2,0,0,,13 days ago,"[{'price': '$3,100+', 'beds': '2'}]"
+596,Pine Terrace Apartments - PTerrace,2995,"2960-2980 Clairemont Sq, San Diego, CA",92117,2,0,0,,,"[{'price': '$2,995+', 'beds': '2'}]"
+597,For Rent,2500,"2821 Morena Blvd, San Diego, CA",92117,0,0,0,,25 days ago,"[{'price': '$2,500+', 'beds': '0'}]"
+598,For Rent,2950,"3095 Cowley Way, San Diego, CA",92117,2,0,0,,1 day ago,"[{'price': '$2,950+', 'beds': '2'}]"
+599,For Rent,3800,"4163 Clairemont Mesa Blvd, San Diego, CA",92117,3,0,0,,3D Tour,"[{'price': '$3,800+', 'beds': '3'}]"
+600,For Rent,2200,"4161 Clairemont Mesa Blvd, San Diego, CA",92117,0,0,0,,3D Tour,"[{'price': '$2,200+', 'beds': '0'}, {'price': '$2,200+', 'beds': '1'}, {'price': '$3,000+', 'beds': '2'}]"
+601,For Rent,2200,"4161 Clairemont Mesa Blvd, San Diego, CA",92117,1,0,0,,3D Tour,"[{'price': '$2,200+', 'beds': '0'}, {'price': '$2,200+', 'beds': '1'}, {'price': '$3,000+', 'beds': '2'}]"
+602,For Rent,3000,"4161 Clairemont Mesa Blvd, San Diego, CA",92117,2,0,0,,3D Tour,"[{'price': '$2,200+', 'beds': '0'}, {'price': '$2,200+', 'beds': '1'}, {'price': '$3,000+', 'beds': '2'}]"
+603,Emerald Manor Apartments,1895,"1918 & 1930 Emerald St, San Diego, CA",92109,0,0,0,,,"[{'price': '$1,895+', 'beds': '0'}, {'price': '$3,195+', 'beds': '2'}]"
+604,Emerald Manor Apartments,3195,"1918 & 1930 Emerald St, San Diego, CA",92109,2,0,0,,,"[{'price': '$1,895+', 'beds': '0'}, {'price': '$3,195+', 'beds': '2'}]"
+605,2121 Thomas Avenue,3325,"2121 Thomas Ave, San Diego, CA",92109,1,0,0,,,"[{'price': '$3,325+', 'beds': '1'}]"
+606,For Rent,4995,"4944 Cass St, San Diego, CA",92109,2,0,0,,1 day ago,"[{'price': '$4,995+', 'beds': '2'}]"
+607,For Rent,3000,"801 San Jose Pl, San Diego, CA",92109,1,0,0,,3 days ago,"[{'price': '$3,000+', 'beds': '1'}, {'price': '$5,000+', 'beds': '3'}]"
+608,For Rent,5000,"801 San Jose Pl, San Diego, CA",92109,3,0,0,,3 days ago,"[{'price': '$3,000+', 'beds': '1'}, {'price': '$5,000+', 'beds': '3'}]"
+609,For Rent,3100,"4730 Mission Bay Dr, San Diego, CA",92109,2,0,0,,12 days ago,"[{'price': '$3,100+', 'beds': '2'}]"
+610,Regents La Jolla,3220,"9253 Regents Rd, La Jolla, CA",92037,1,0,0,,,"[{'price': '$3,220+', 'beds': '1'}, {'price': '$3,975+', 'beds': '2'}]"
+611,Regents La Jolla,3975,"9253 Regents Rd, La Jolla, CA",92037,2,0,0,,,"[{'price': '$3,220+', 'beds': '1'}, {'price': '$3,975+', 'beds': '2'}]"
+612,Solazzo Apartments Homes,2770,"8506 Villa La Jolla Dr, La Jolla, CA",92037,1,0,0,,3D Tour,"[{'price': '$2,770+', 'beds': '1'}, {'price': '$3,545+', 'beds': '2'}]"
+613,Solazzo Apartments Homes,3545,"8506 Villa La Jolla Dr, La Jolla, CA",92037,2,0,0,,3D Tour,"[{'price': '$2,770+', 'beds': '1'}, {'price': '$3,545+', 'beds': '2'}]"
+614,Terraces at La Jolla Village,3395,"8843 Villa La Jolla Dr, La Jolla, CA",92037,2,0,0,,,"[{'price': '$3,395+', 'beds': '2'}]"
+615,Village Square,2419,"8683 Via Mallorca, La Jolla, CA",92037,1,0,0,,,"[{'price': '$2,419+', 'beds': '1'}]"
+616,Ocean House on Prospect Apartment Homes,5599,"400 Prospect St, La Jolla, CA",92037,1,0,0,,3D Tour,"[{'price': '$5,599+', 'beds': '1'}, {'price': '$5,999+', 'beds': '2'}]"
+617,Ocean House on Prospect Apartment Homes,5999,"400 Prospect St, La Jolla, CA",92037,2,0,0,,3D Tour,"[{'price': '$5,599+', 'beds': '1'}, {'price': '$5,999+', 'beds': '2'}]"
+618,For Rent,2295,"8536 Via Mallorca, La Jolla, CA",92037,1,0,0,,2 days ago,"[{'price': '$2,295+', 'beds': '1'}]"
+619,For Rent,2500,"8644 Via Mallorca, La Jolla, CA",92037,1,0,0,,8 days ago,"[{'price': '$2,500+', 'beds': '1'}]"
+620,For Rent,2875,"365 Bonair St, La Jolla, CA",92037,1,0,0,,12 days ago,"[{'price': '$2,875+', 'beds': '1'}, {'price': '$3,375+', 'beds': '2'}]"
+621,For Rent,3375,"365 Bonair St, La Jolla, CA",92037,2,0,0,,12 days ago,"[{'price': '$2,875+', 'beds': '1'}, {'price': '$3,375+', 'beds': '2'}]"
+622,Caravel Apartments,2625,"331-347 1/2 Prospect St, La Jolla, CA",92037,1,0,0,,,"[{'price': '$2,625+', 'beds': '1'}]"
+623,For Rent,2800,"6455 La Jolla Blvd, La Jolla, CA",92037,1,0,0,,11 days ago,"[{'price': '$2,800+', 'beds': '1'}, {'price': '$4,195+', 'beds': '2'}]"
+624,For Rent,4195,"6455 La Jolla Blvd, La Jolla, CA",92037,2,0,0,,11 days ago,"[{'price': '$2,800+', 'beds': '1'}, {'price': '$4,195+', 'beds': '2'}]"
+625,For Rent,3500,"8440 Via Sonoma, La Jolla, CA",92037,2,0,0,,29 days ago,"[{'price': '$3,500+', 'beds': '2'}]"
+626,For Rent,6000,"939 Coast Blvd, La Jolla, CA",92037,1,0,0,,3D Tour,"[{'price': '$6,000+', 'beds': '1'}, {'price': '$5,500+', 'beds': '2'}]"
+627,For Rent,5500,"939 Coast Blvd, La Jolla, CA",92037,2,0,0,,3D Tour,"[{'price': '$6,000+', 'beds': '1'}, {'price': '$5,500+', 'beds': '2'}]"
+628,Loma Portal,2420,"3131 Cauby St, San Diego, CA",92110,1,0,0,,,"[{'price': '$2,420+', 'beds': '1'}, {'price': '$2,620+', 'beds': '2'}]"
+629,Loma Portal,2620,"3131 Cauby St, San Diego, CA",92110,2,0,0,,,"[{'price': '$2,420+', 'beds': '1'}, {'price': '$2,620+', 'beds': '2'}]"
+630,The Seaton Apartments,2825,"1302 Frankfort St, San Diego, CA",92110,1,0,0,,,"[{'price': '$2,825+', 'beds': '1'}, {'price': '$3,550+', 'beds': '2'}]"
+631,The Seaton Apartments,3550,"1302 Frankfort St, San Diego, CA",92110,2,0,0,,,"[{'price': '$2,825+', 'beds': '1'}, {'price': '$3,550+', 'beds': '2'}]"
+632,Arrive Mission Valley,2763,"5395 Napa St, San Diego, CA",92110,1,0,0,,3D Tour,"[{'price': '$2,763+', 'beds': '1'}, {'price': '$3,268+', 'beds': '2'}, {'price': '$4,553+', 'beds': '3'}]"
+633,Arrive Mission Valley,3268,"5395 Napa St, San Diego, CA",92110,2,0,0,,3D Tour,"[{'price': '$2,763+', 'beds': '1'}, {'price': '$3,268+', 'beds': '2'}, {'price': '$4,553+', 'beds': '3'}]"
+634,Arrive Mission Valley,4553,"5395 Napa St, San Diego, CA",92110,3,0,0,,3D Tour,"[{'price': '$2,763+', 'beds': '1'}, {'price': '$3,268+', 'beds': '2'}, {'price': '$4,553+', 'beds': '3'}]"
+635,Loma Palisades,2560,"2799 Adrian St, San Diego, CA",92110,2,0,0,,,"[{'price': '$2,560+', 'beds': '2'}, {'price': '$3,640+', 'beds': '3'}]"
+636,Loma Palisades,3640,"2799 Adrian St, San Diego, CA",92110,3,0,0,,,"[{'price': '$2,560+', 'beds': '2'}, {'price': '$3,640+', 'beds': '3'}]"
+637,Dylan Point Loma,4259,"2930 Barnard St, San Diego, CA",92110,1,0,0,,,"[{'price': '$4,259+', 'beds': '1'}, {'price': '$4,238+', 'beds': '2'}, {'price': '$4,341+', 'beds': '3'}]"
+638,Dylan Point Loma,4238,"2930 Barnard St, San Diego, CA",92110,2,0,0,,,"[{'price': '$4,259+', 'beds': '1'}, {'price': '$4,238+', 'beds': '2'}, {'price': '$4,341+', 'beds': '3'}]"
+639,Dylan Point Loma,4341,"2930 Barnard St, San Diego, CA",92110,3,0,0,,,"[{'price': '$4,259+', 'beds': '1'}, {'price': '$4,238+', 'beds': '2'}, {'price': '$4,341+', 'beds': '3'}]"
+640,For Rent,2799,"2670 Worden St, San Diego, CA",92110,2,0,0,,15 days ago,"[{'price': '$2,799+', 'beds': '2'}]"
+641,For Rent,3500,"3142 Cabrillo Bay Ln, San Diego, CA",92110,2,0,0,,12 days ago,"[{'price': '$3,500+', 'beds': '2'}, {'price': '$3,950+', 'beds': '3'}]"
+642,For Rent,3950,"3142 Cabrillo Bay Ln, San Diego, CA",92110,3,0,0,,12 days ago,"[{'price': '$3,500+', 'beds': '2'}, {'price': '$3,950+', 'beds': '3'}]"
+643,For Rent,2395,"2254 Moore St, San Diego, CA",92110,0,0,0,,43 days ago,"[{'price': '$2,395+', 'beds': '0'}, {'price': '$2,750+', 'beds': '1'}]"
+644,For Rent,2750,"2254 Moore St, San Diego, CA",92110,1,0,0,,43 days ago,"[{'price': '$2,395+', 'beds': '0'}, {'price': '$2,750+', 'beds': '1'}]"
+645,For Rent,2100,"3050 Rue D Orleans, San Diego, CA",92110,1,0,0,,1 day ago,"[{'price': '$2,100+', 'beds': '1'}]"
+646,For Rent,4995,"1956 Hornblend St, San Diego, CA",92109,2,0,0,,39 days ago,"[{'price': '$4,995+', 'beds': '2'}]"
+647,For Rent,2420,"3993 Jewell St, San Diego, CA",92109,1,0,0,,16 days ago,"[{'price': '$2,420+', 'beds': '1'}, {'price': '$3,600+', 'beds': '2'}]"
+648,For Rent,3600,"3993 Jewell St, San Diego, CA",92109,2,0,0,,16 days ago,"[{'price': '$2,420+', 'beds': '1'}, {'price': '$3,600+', 'beds': '2'}]"
+649,For Rent,1790,"2886.5 Mission Blvd, San Diego, CA",92109,0,0,0,,42 days ago,"[{'price': '$1,790+', 'beds': '0'}, {'price': '$4,000+', 'beds': '1'}]"
+650,For Rent,4000,"2886.5 Mission Blvd, San Diego, CA",92109,1,0,0,,42 days ago,"[{'price': '$1,790+', 'beds': '0'}, {'price': '$4,000+', 'beds': '1'}]"
+651,For Rent,6499,"3916 Riviera Dr, San Diego, CA",92109,2,0,0,,39 days ago,"[{'price': '$6,499+', 'beds': '2'}]"
